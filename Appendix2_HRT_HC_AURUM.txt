@@ -1,0 +1,75 @@
+ProdCodeId	DMDCode	TermfromEMIS	ProductName	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	DrugIssues
+374341000033111	325557008	Conjugated oestrogens 1.25mg tablets	Conjugated oestrogens 1.25mg tablets	Conjugated oestrogens	1.250mg	Tablet	Oral	6040101	300000
+374441000033117	325556004	Conjugated oestrogens 625microgram tablets	Conjugated oestrogens 625microgram tablets	Conjugated oestrogens	625.000microgram	Tablet	Oral	6040101	600000
+492441000033114	325589004	Dydrogesterone 10mg tablets	Dydrogesterone 10mg tablets	Dydrogesterone	10.000mg	Tablet	Oral	6040102	200000
+734441000033118	36057811000001101	Hydroxyprogesterone 250mg/1ml solution for injection ampoules	Hydroxyprogesterone 250mg/1ml solution for injection ampoules	Hydroxyprogesterone caproate	250.000mg/1.000ml	Solution for injection	Intramuscular	6040102	500
+895541000033112	325609008	Medroxyprogesterone 5mg tablets	Medroxyprogesterone 5mg tablets	Medroxyprogesterone acetate	5.000mg	Tablet	Oral	6040102	100000
+898741000033110	325603009	Medroxyprogesterone 2.5mg tablets	Medroxyprogesterone 2.5mg tablets	Medroxyprogesterone acetate	2.500mg	Tablet	Oral	6040102	20000
+904741000033110	325601006	Medroxyprogesterone 10mg tablets	Medroxyprogesterone 10mg tablets	Medroxyprogesterone acetate	10.000mg	Tablet	Oral	6040102	300000
+986941000033116	325611004	Norethisterone 5mg tablets	Norethisterone 5mg tablets	Norethisterone	5.000mg	Tablet	Oral	6040102	4000000
+988041000033116	325618005	Norethisterone 1mg tablets	Norethisterone 1mg tablets	Norethisterone	1.000mg	Tablet	Oral	6040102	40000
+1117241000033110	4971311000001103	Progesterone 25mg/1ml solution for injection ampoules	Progesterone 25mg/1ml solution for injection ampoules	Progesterone	25.000mg/1.000ml	Solution for injection	Intramuscular	6040102	100
+1117341000033117	35931211000001102	Progesterone 50mg/1ml solution for injection ampoules	Progesterone 50mg/1ml solution for injection ampoules	Progesterone	50.000mg/1.000ml	Solution for injection	Intramuscular	6040102	1000
+1117941000033118	36022011000001106	Progesterone 100mg/2ml solution for injection ampoules	Progesterone 100mg/2ml solution for injection ampoules	Progesterone	50.000mg/1.000ml	Solution for injection	Intramuscular	6040102	1000
+1141241000033112	325626002	Progesterone 4% vaginal gel 1.125g applicators	Progesterone 4% vaginal gel 1.125g applicators	Progesterone	40.000mg/1.000gram	Vaginal gel	Vaginal	6040102	900
+1141341000033119	325627006	Progesterone 8% vaginal gel 1.125g applicators	Progesterone 8% vaginal gel 1.125g applicators	Progesterone	80.000mg/1.000gram	Vaginal gel	Vaginal	6040102	2000
+1444741000033117	325568008	Tibolone 2.5mg tablets	Tibolone 2.5mg tablets	Tibolone	2.500mg	Tablet	Oral	6040101	2000000
+1594241000033112	428005004	Conjugated oestrogens 2.5mg tablets	Conjugated oestrogens 2.5mg tablets	Conjugated oestrogens	2.500mg	Tablet	Oral	6040101	6000
+1671641000033110	326075007	Raloxifene 60mg tablets	Raloxifene 60mg tablets	Raloxifene hydrochloride	60.000mg	Tablet	Oral	6040101	600000
+1855641000033116	325560001	Estropipate 1.5mg tablets	Estropipate 1.5mg tablets	Estropipate	1.500mg	Tablet	Oral	6040101	20000
+2585641000033111	39708911000001106	Progesterone 200mg pessaries	Progesterone 200mg pessaries	Progesterone	200.000mg	Pessary	Rectal/ Vaginal	6040102	10000
+2585741000033119	39709011000001102	Progesterone 400mg pessaries	Progesterone 400mg pessaries	Progesterone	400.000mg	Pessary	Vaginal/ Rectal	6040102	30000
+3090041000033118	325480003	Ethinylestradiol 10microgram tablets	Ethinylestradiol 10microgram tablets	Ethinylestradiol	10.000microgram	Tablet	Oral	6040101	100000
+3090141000033119	325481004	Ethinylestradiol 50microgram tablets	Ethinylestradiol 50microgram tablets	Ethinylestradiol	50.000microgram	Tablet	Oral	6040101	30000
+3090241000033114	325482006	Ethinylestradiol 1mg tablets	Ethinylestradiol 1mg tablets	Ethinylestradiol	1.000mg	Tablet	Oral	6040101	5000
+3090341000033116	11738011000001105	Ethinylestradiol 2microgram tablets	Ethinylestradiol 2microgram tablets	Ethinylestradiol	2.000microgram	Tablet	Oral	6040101	6000
+3097641000033113	325577001	Estradiol 0.06% gel (750microgram per actuation)	Estradiol 0.06% gel (750microgram per actuation)	Estradiol	600.000microgram/1.000gram	Gel	Transdermal	6040101	500000
+3097741000033116	325542001	Estradiol 100mg implant	Estradiol 100mg implant	Estradiol	100.000mg	Implant	Subcutaneous	6040101	40000
+3097841000033114	325540009	Estradiol 25mg implant	Estradiol 25mg implant	Estradiol	25.000mg	Implant	Subcutaneous	6040101	7000
+3097941000033118	325541008	Estradiol 50mg implant	Estradiol 50mg implant	Estradiol	50.000mg	Implant	Subcutaneous	6040101	50000
+3098041000033115	325545004	Estradiol 1mg tablets	Estradiol 1mg tablets	Estradiol	1.000mg	Tablet	Oral	6040101	300000
+3098141000033116	325546003	Estradiol 2mg tablets	Estradiol 2mg tablets	Estradiol	2.000mg	Tablet	Oral	6040101	300000
+3098341000033118	36064811000001103	Estradiol 100micrograms/24hours transdermal patches	Estradiol 100micrograms/24hours transdermal patches	Estradiol	100.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	70000
+3098441000033112	36064911000001108	Estradiol 25micrograms/24hours transdermal patches	Estradiol 25micrograms/24hours transdermal patches	Estradiol	25.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	100000
+3098541000033113	36065111000001109	Estradiol 40micrograms/24hours transdermal patches	Estradiol 40micrograms/24hours transdermal patches	Estradiol	40.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	30000
+3098641000033114	39112011000001100	Estradiol 50micrograms/24hours transdermal patches	Estradiol 50micrograms/24hours transdermal patches	Estradiol	50.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	300000
+3098741000033117	36065411000001104	Estradiol 75micrograms/24hours transdermal patches	Estradiol 75micrograms/24hours transdermal patches	Estradiol	75.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	50000
+3098841000033110	36065511000001100	Estradiol 80micrograms/24hours transdermal patches	Estradiol 80micrograms/24hours transdermal patches	Estradiol	80.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	10000
+3099541000033118	3664111000001108	Estradiol 1mg gel sachets	Estradiol 1mg gel sachets	Estradiol hemihydrate	1.000mg	Gel	Transdermal	6040101	70000
+3099641000033117	3664211000001102	Estradiol 500microgram gel sachets	Estradiol 500microgram gel sachets	Estradiol hemihydrate	500.000microgram	Gel	Transdermal	6040101	40000
+3099741000033114	134589003	Estradiol 150micrograms/dose nasal spray	Estradiol 150micrograms/dose nasal spray	Estradiol hemihydrate	150.000microgram/1.000dose	Spray	Nasal	6040101	10000
+3099941000033112	325505008	Estradiol valerate 1mg tablets	Estradiol valerate 1mg tablets	Estradiol valerate	1.000mg	Tablet	Oral	6040101	200000
+3100041000033111	325533008	Estradiol valerate 2mg tablets	Estradiol valerate 2mg tablets	Estradiol valerate	2.000mg	Tablet	Oral	6040101	200000
+3100441000033119	325550005	Estriol 1mg tablets	Estriol 1mg tablets	Estriol	1.000mg	Tablet	Oral	6040101	3000
+3191541000033110	325655005	Estradiol valerate 2mg / Norethisterone 700microgram tablets	Estradiol valerate 2mg / Norethisterone 700microgram tablets	Estradiol valerate/ Norethisterone	2.000mg + 700.000microgram	Tablet	Oral	6040101	7000
+3191741000033119	325648008	Estradiol 2mg / Norethisterone acetate 1mg tablets	Estradiol 2mg / Norethisterone acetate 1mg tablets	Estradiol/ Norethisterone acetate	2.000mg + 1.000mg	Tablet	Oral	6040101	80000
+3191841000033112	36065211000001103	Estradiol 50micrograms/24hours / Norethisterone 170micrograms/24hours transdermal patches	Estradiol 50micrograms/24hours / Norethisterone 170micrograms/24hours transdermal patches	Estradiol/ Norethisterone acetate	50.000microgram/24.000hour + 170.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	40000
+3191941000033116	3948111000001106	Estradiol 50micrograms/24hours transdermal patches and Norethisterone 1mg tablets	Estradiol 50micrograms/24hours transdermal patches and Norethisterone 1mg tablets			Not applicable	Route of administration not applicable	6040101	200
+3192041000033110	3947911000001108	Estradiol 40micrograms/24hours transdermal patches and Dydrogesterone 10mg tablets	Estradiol 40micrograms/24hours transdermal patches and Dydrogesterone 10mg tablets			Not applicable	Route of administration not applicable	6040101	700
+3192141000033114	3948011000001105	Estradiol 80micrograms/24hours transdermal patches and Dydrogesterone 10mg tablets	Estradiol 80micrograms/24hours transdermal patches and Dydrogesterone 10mg tablets			Not applicable	Route of administration not applicable	6040101	600
+3192241000033119	3369311000001103	Estradiol 1mg / Dydrogesterone 5mg tablets	Estradiol 1mg / Dydrogesterone 5mg tablets	Dydrogesterone/ Estradiol	5.000mg + 1.000mg	Tablet	Oral	6040101	10000
+3192341000033112	3788211000001104	Estradiol valerate 1mg / Medroxyprogesterone 2.5mg tablets	Estradiol valerate 1mg / Medroxyprogesterone 2.5mg tablets	Estradiol valerate/ Medroxyprogesterone acetate	1.000mg + 2.500mg	Tablet	Oral	6040101	10000
+3192441000033118	3864111000001104	Estradiol valerate 1mg / Medroxyprogesterone 5mg tablets	Estradiol valerate 1mg / Medroxyprogesterone 5mg tablets	Estradiol valerate/ Medroxyprogesterone acetate	1.000mg + 5.000mg	Tablet	Oral	6040101	5000
+3192541000033117	3788311000001107	Estradiol valerate 2mg / Medroxyprogesterone 5mg tablets	Estradiol valerate 2mg / Medroxyprogesterone 5mg tablets	Estradiol valerate/ Medroxyprogesterone acetate	2.000mg + 5.000mg	Tablet	Oral	6040101	6000
+3192641000033116	325662001	Estradiol 1mg / Norethisterone acetate 500microgram tablets	Estradiol 1mg / Norethisterone acetate 500microgram tablets	Estradiol/ Norethisterone acetate	1.000mg + 500.000microgram	Tablet	Oral	6040101	80000
+3192741000033113	39689411000001101	Conjugated oestrogens 625microgram / Medroxyprogesterone 5mg tablets	Conjugated oestrogens 625microgram / Medroxyprogesterone 5mg tablets	Conjugated oestrogens/ Medroxyprogesterone acetate	625.000microgram + 5.000mg	Tablet	Oral	6040101	40000
+3192841000033115	15621411000001104	Conjugated oestrogens 300microgram / Medroxyprogesterone 1.5mg modified-release tablets	Conjugated oestrogens 300microgram / Medroxyprogesterone 1.5mg modified-release tablets	Conjugated oestrogens/ Medroxyprogesterone acetate	300.000microgram + 1.500mg	Modified-release tablet	Oral	6040101	30000
+3192941000033111	400674006	Conjugated oestrogens 625microgram tablets and Norgestrel 150microgram tablets	Conjugated oestrogens 625microgram tablets and Norgestrel 150microgram tablets			Not applicable	Route of administration not applicable	6040101	40000
+3193041000033118	3341011000001106	Conjugated oestrogens 1.25mg tablets and Norgestrel 150microgram tablets	Conjugated oestrogens 1.25mg tablets and Norgestrel 150microgram tablets			Not applicable	Route of administration not applicable	6040101	10000
+3194641000033114	4339811000001101	Estradiol 50micrograms/24hours / Levonorgestrel 7micrograms/24hours transdermal patches	Estradiol 50micrograms/24hours / Levonorgestrel 7micrograms/24hours transdermal patches	Estradiol/ Levonorgestrel	50.000microgram/24.000hour + 7.000microgram/24.000hour	Transdermal patch	Transdermal	6040101	10000
+3225741000033112	36065011000001108	Estradiol 37.5micrograms/24hours transdermal patches	Estradiol 37.5micrograms/24hours transdermal patches	Estradiol	37.500microgram/24.000hour	Transdermal patch	Transdermal	6040101	8000
+3290541000033119	8801211000001108	Estradiol 1mg / Drospirenone 2mg tablets	Estradiol 1mg / Drospirenone 2mg tablets	Drospirenone/ Estradiol hemihydrate	2.000mg + 1.000mg	Tablet	Oral	6040101	10000
+4118041000033114	409118006	Conjugated oestrogens 300microgram tablets	Conjugated oestrogens 300microgram tablets	Conjugated oestrogens	300.000microgram	Tablet	Oral	6040101	30000
+4201641000033114	11763611000001103	Progesterone micronised 200mg capsules	Progesterone micronised 200mg capsules	Progesterone	200.000mg	Capsule	Oral	6040102	2000
+4201741000033117	11763511000001102	Progesterone micronised 100mg capsules	Progesterone micronised 100mg capsules	Progesterone	100.000mg	Capsule	Oral	6040102	200000
+7684641000033118	20293811000001102	Ulipristal 5mg tablets	Ulipristal 5mg tablets	Ulipristal acetate	5.000mg	Tablet	Oral	6040102	10000
+8129141000033112	21366211000001107	Estradiol 500micrograms / Dydrogesterone 2.5mg tablets	Estradiol 500micrograms / Dydrogesterone 2.5mg tablets	Dydrogesterone/ Estradiol	2.500mg + 500.000microgram	Tablet	Oral	6040101	9000
+8536241000033116	22683711000001100	Progesterone micronised 200mg vaginal capsules	Progesterone micronised 200mg vaginal capsules	Progesterone	200.000mg	Capsule	Vaginal	6040102	3000
+9068241000033110	23948311000001106	Progesterone 25mg/1.119ml solution for injection vials	Progesterone 25mg/1.119ml solution for injection vials	Progesterone	22.350mg/1.000ml	Solution for injection	Intramuscular/ Subcutaneous	6040102	90
+9300941000033118	28422411000001100	Dienogest 2mg tablets	Dienogest 2mg tablets	Dienogest	2.000mg	Tablet	Oral	6040102	900
+10043941000033117	28423111000001104	Progesterone 100mg pessaries	Progesterone 100mg pessaries	Progesterone	100.000mg	Pessary	Vaginal	6040102	500
+12291041000033111	32936711000001100	Conjugated oestrogens 450microgram / Bazedoxifene 20mg modified-release tablets	Conjugated oestrogens 450microgram / Bazedoxifene 20mg modified-release tablets	Bazedoxifene acetate/ Conjugated oestrogens	20.000mg + 450.000microgram	Modified-release tablet	Oral	6040101	30
+12878441000033111	36411111000001101	Progesterone 25mg/1.112ml solution for injection vials	Progesterone 25mg/1.112ml solution for injection vials	Progesterone	22.480mg/1.000ml	Solution for injection	Subcutaneous/ Intramuscular	6040102	70
+13451141000033114	38344311000001108	Estradiol 1.53mg/dose transdermal spray	Estradiol 1.53mg/dose transdermal spray	Estradiol hemihydrate	1.530mg	Spray	Transdermal	6040101	3000
+13829441000033113	39601811000001101	Ethinylestradiol 50microgram gastro-resistant tablets	Ethinylestradiol 50microgram gastro-resistant tablets	Ethinylestradiol	50.000microgram	Gastro-resistant tablet	Oral	6040101	1
+13910141000033113	39964911000001106	Estradiol 1mg / Progesterone 100mg capsules	Estradiol 1mg / Progesterone 100mg capsules	Estradiol/ Progesterone	1.000mg + 100.000mg	Capsule	Oral	6040101	30

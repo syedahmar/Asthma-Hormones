@@ -1,0 +1,507 @@
+ProdCodeId	DMDCode	TermfromEMIS	ProductName	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	DrugIssues
+11441000033114	326038002	Acarbose 100mg tablets	Acarbose 100mg tablets	Acarbose	100.000mg	Tablet	Oral	6010203	200000
+11541000033110	326037007	Acarbose 50mg tablets	Acarbose 50mg tablets	Acarbose	50.000mg	Tablet	Oral	6010203	500000
+249441000033114	325213005	Chlorpropamide 100mg tablets	Chlorpropamide 100mg tablets	Chlorpropamide	100.000mg	Tablet	Oral	6010201	40000
+249541000033110	325214004	Chlorpropamide 250mg tablets	Chlorpropamide 250mg tablets	Chlorpropamide	250.000mg	Tablet	Oral	6010201	70000
+464441000033117	325297007	Diazoxide 50mg tablets	Diazoxide 50mg tablets	Diazoxide	50.000mg	Tablet	Oral	6010400	9000
+639241000033114	36051511000001105	Glucagon 1mg powder and solvent for solution for injection vials	Glucagon 1mg powder and solvent for solution for injection vials	Glucagon hydrochloride	1.000mg	Powder and solvent for solution for injection	Intramuscular/ Subcutaneous/ Intravenous	6010400	200000
+644541000033111	325218001	Glibenclamide 2.5mg tablets	Glibenclamide 2.5mg tablets	Glibenclamide	2.500mg	Tablet	Oral	6010201	600000
+644641000033112	325219009	Glibenclamide 5mg tablets	Glibenclamide 5mg tablets	Glibenclamide	5.000mg	Tablet	Oral	6010201	2000000
+644841000033113	325243007	Glipizide 5mg tablets	Glipizide 5mg tablets	Glipizide	5.000mg	Tablet	Oral	6010201	800000
+645841000033112	325259007	Glimepiride 2mg tablets	Glimepiride 2mg tablets	Glimepiride	2.000mg	Tablet	Oral	6010201	1000000
+645941000033116	325261003	Glimepiride 1mg tablets	Glimepiride 1mg tablets	Glimepiride	1.000mg	Tablet	Oral	6010201	800000
+646041000033114	325262005	Glimepiride 3mg tablets	Glimepiride 3mg tablets	Glimepiride	3.000mg	Tablet	Oral	6010201	500000
+646141000033113	325263000	Glimepiride 4mg tablets	Glimepiride 4mg tablets	Glimepiride	4.000mg	Tablet	Oral	6010201	1000000
+646441000033117	325242002	Gliclazide 80mg tablets	Gliclazide 80mg tablets	Gliclazide	80.000mg	Tablet	Oral	6010201	30000000
+646541000033116	325248003	Glipizide 2.5mg tablets	Glipizide 2.5mg tablets	Glipizide	2.500mg	Tablet	Oral	6010201	100000
+646941000033110	325251005	Gliquidone 30mg tablets	Gliquidone 30mg tablets	Gliquidone	30.000mg	Tablet	Oral	6010201	9000
+655141000033116	325287003	Guar gum 5g granules sachets sugar free	Guar gum 5g granules sachets sugar free	Guar gum	5.000gram	Granules	Oral	6010203	2000
+757641000033112	36047511000001102	Insulin lispro 100units/ml solution for injection 1.5ml cartridges	Insulin lispro 100units/ml solution for injection 1.5ml cartridges	Insulin lispro	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010101	20000
+762441000033118	36047611000001103	Insulin lispro 100units/ml solution for injection 10ml vials	Insulin lispro 100units/ml solution for injection 10ml vials	Insulin lispro	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Intramuscular/ Subcutaneous/ Intravenous	6010101	50000
+779141000033111	3472511000001100	Insulin isophane human 100units/ml suspension for injection 10ml vials	Insulin isophane human 100units/ml suspension for injection 10ml vials	Insulin isophane human	100.000unit/1.000ml + 100.000unit/1.000ml	Suspension for injection	Subcutaneous	6010102	20000
+896941000033112	325278007	Metformin 500mg tablets	Metformin 500mg tablets	Metformin hydrochloride	500.000mg	Tablet	Oral	6010202	60000000
+897041000033113	325279004	Metformin 850mg tablets	Metformin 850mg tablets	Metformin hydrochloride	850.000mg	Tablet	Oral	6010202	10000000
+1119741000033114	36047911000001109	Insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials	Insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials	Insulin protamine zinc bovine	100.000unit/1.000ml + 100.000unit/1.000ml	Suspension for injection	Subcutaneous	6010102	2000
+1450941000033113	325267004	Tolbutamide 500mg tablets	Tolbutamide 500mg tablets	Tolbutamide	500.000mg	Tablet	Oral	6010201	1000000
+1672741000033112	326048000	Repaglinide 1mg tablets	Repaglinide 1mg tablets	Repaglinide	1.000mg	Tablet	Oral	6010203	200000
+1672841000033119	326049008	Repaglinide 2mg tablets	Repaglinide 2mg tablets	Repaglinide	2.000mg	Tablet	Oral	6010203	200000
+1672941000033110	326047005	Repaglinide 500microgram tablets	Repaglinide 500microgram tablets	Repaglinide	500.000microgram	Tablet	Oral	6010203	100000
+1739941000033110	36047711000001107	Insulin lispro 100units/ml solution for injection 3ml cartridges	Insulin lispro 100units/ml solution for injection 3ml cartridges	Insulin lispro	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Intramuscular/ Subcutaneous/ Intravenous	6010101	100000
+1821441000033116	3473011000001104	Insulin isophane porcine 100units/ml suspension for injection 10ml vials	Insulin isophane porcine 100units/ml suspension for injection 10ml vials	Insulin isophane porcine	100.000unit/1.000ml + 100.000unit/1.000ml	Suspension for injection	Intramuscular/ Subcutaneous	6010102	4000
+1821541000033115	4053611000001100	Insulin isophane porcine 100units/ml suspension for injection 3ml cartridges	Insulin isophane porcine 100units/ml suspension for injection 3ml cartridges	Insulin isophane porcine	100.000unit/1.000ml + 100.000unit/1.000ml	Suspension for injection	Subcutaneous/ Intramuscular	6010102	2000
+1821641000033119	3472311000001106	Insulin isophane bovine 100units/ml suspension for injection 10ml vials	Insulin isophane bovine 100units/ml suspension for injection 10ml vials	Insulin isophane bovine	100.000unit/1.000ml + 100.000unit/1.000ml	Suspension for injection	Intramuscular/ Subcutaneous	6010102	3000
+1821741000033111	4033211000001103	Insulin isophane bovine 100units/ml suspension for injection 3ml cartridges	Insulin isophane bovine 100units/ml suspension for injection 3ml cartridges	Insulin isophane bovine	100.000unit/1.000ml + 100.000unit/1.000ml	Suspension for injection	Intramuscular/ Subcutaneous	6010102	600
+1861941000033119	36047011000001105	Insulin aspart 100units/ml solution for injection 10ml vials	Insulin aspart 100units/ml solution for injection 10ml vials	Insulin aspart	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Intravenous/ Subcutaneous	6010101	30000
+1862041000033113	3468611000001108	Insulin aspart 100units/ml solution for injection 3ml cartridges	Insulin aspart 100units/ml solution for injection 3ml cartridges	Insulin aspart	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous/ Intravenous	6010101	100000
+2147541000033115	326057006	Rosiglitazone 4mg tablets	Rosiglitazone 4mg tablets	Rosiglitazone maleate	4.000mg	Tablet	Oral	6010203	1000000
+2147641000033119	326056002	Rosiglitazone 8mg tablets	Rosiglitazone 8mg tablets	Rosiglitazone maleate	8.000mg	Tablet	Oral	6010203	600000
+2182241000033112	36047811000001104	Insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin lispro	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Intravenous/ Subcutaneous/ Intramuscular	6010101	30000
+2190741000033115	326062007	Pioglitazone 15mg tablets	Pioglitazone 15mg tablets	Pioglitazone hydrochloride	15.000mg	Tablet	Oral	6010203	2000000
+2190841000033113	326061000	Pioglitazone 30mg tablets	Pioglitazone 30mg tablets	Pioglitazone hydrochloride	30.000mg	Tablet	Oral	6010203	2000000
+2288241000033112	134610002	Nateglinide 60mg tablets	Nateglinide 60mg tablets	Nateglinide	60.000mg	Tablet	Oral	6010203	70000
+2288341000033119	134609007	Nateglinide 120mg tablets	Nateglinide 120mg tablets	Nateglinide	120.000mg	Tablet	Oral	6010203	40000
+2288441000033113	134608004	Nateglinide 180mg tablets	Nateglinide 180mg tablets	Nateglinide	180.000mg	Tablet	Oral	6010203	30000
+2289441000033115	38896211000001104	Gliclazide 30mg modified-release tablets	Gliclazide 30mg modified-release tablets	Gliclazide	30.000mg	Modified-release tablet	Oral	6010201	3000000
+2620241000033119	8664411000001102	Metformin 500mg/5ml oral suspension	Metformin 500mg/5ml oral suspension	Metformin hydrochloride	100.000mg/1.000ml	Oral suspension	Oral	6010202	20000
+2623841000033114	8453311000001103	Diazoxide 250mg/5ml oral suspension	Diazoxide 250mg/5ml oral suspension	Diazoxide	50.000mg/1.000ml	Oral suspension	Oral	6010400	2000
+2798841000033115	36047111000001106	Insulin glargine 100units/ml solution for injection 10ml vials	Insulin glargine 100units/ml solution for injection 10ml vials	Insulin glargine	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	200000
+2798941000033111	38896911000001108	Insulin glargine 100units/ml solution for injection 3ml cartridges	Insulin glargine 100units/ml solution for injection 3ml cartridges	Insulin glargine	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	600000
+2799041000033119	38897011000001107	Insulin glargine 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	700000
+2995941000033112	374897009	Pioglitazone 45mg tablets	Pioglitazone 45mg tablets	Pioglitazone hydrochloride	45.000mg	Tablet	Oral	6010203	1000000
+3136941000033116	7594211000001102	Insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin detemir	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	100000
+3137041000033115	7597611000001106	Insulin detemir 100units/ml solution for injection 3ml cartridges	Insulin detemir 100units/ml solution for injection 3ml cartridges	Insulin detemir	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	200000
+3191341000033115	409121008	Rosiglitazone 1mg / Metformin 500mg tablets	Rosiglitazone 1mg / Metformin 500mg tablets	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 1.000mg	Tablet	Oral	6010203	6000
+3191441000033114	409122001	Rosiglitazone 2mg / Metformin 500mg tablets	Rosiglitazone 2mg / Metformin 500mg tablets	Metformin hydrochloride/ Rosiglitazone maleate	500.000mg + 2.000mg	Tablet	Oral	6010203	80000
+3200541000033116	409124000	Rosiglitazone 2mg / Metformin 1g tablets	Rosiglitazone 2mg / Metformin 1g tablets	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 2.000mg	Tablet	Oral	6010203	200000
+3200641000033115	409125004	Rosiglitazone 4mg / Metformin 1g tablets	Rosiglitazone 4mg / Metformin 1g tablets	Metformin hydrochloride/ Rosiglitazone maleate	1.000gram + 4.000mg	Tablet	Oral	6010203	200000
+3228141000033117	39113511000001101	Metformin 500mg modified-release tablets	Metformin 500mg modified-release tablets	Metformin hydrochloride	500.000mg	Modified-release tablet	Oral	6010202	10000000
+3277741000033118	3468711000001104	Insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin aspart	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous/ Intravenous	6010101	40000
+3345641000033114	36047211000001100	Insulin glulisine 100units/ml solution for injection 10ml vials	Insulin glulisine 100units/ml solution for injection 10ml vials	Insulin glulisine	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010101	6000
+3345741000033117	9532111000001100	Insulin glulisine 100units/ml solution for injection 3ml cartridges	Insulin glulisine 100units/ml solution for injection 3ml cartridges	Insulin glulisine	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010101	3000
+3914241000033112	10097211000001102	Insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin glulisine	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010101	9000
+3953041000033113	8524311000001105	Gliclazide 80mg/5ml oral suspension	Gliclazide 80mg/5ml oral suspension	Gliclazide	16.000mg/1.000ml	Oral suspension	Oral	6010201	6000
+3982341000033110	10750111000001100	Metformin 500mg/5ml oral solution sugar free	Metformin 500mg/5ml oral solution sugar free	Metformin hydrochloride	100.000mg/1.000ml	Oral solution	Oral	6010202	200000
+3983941000033115	419873003	Pioglitazone 15mg / Metformin 850mg tablets	Pioglitazone 15mg / Metformin 850mg tablets	Metformin hydrochloride/ Pioglitazone hydrochloride	850.000mg + 15.000mg	Tablet	Oral	6010203	400000
+4133241000033117	424345005	Sitagliptin 100mg tablets	Sitagliptin 100mg tablets	Sitagliptin phosphate	100.000mg	Tablet	Oral	6010203	7000000
+4149341000033111	11494211000001108	Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices	Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices	Exenatide	250.000microgram/1.000ml	Solution for injection	Subcutaneous	6010203	50000
+4149441000033117	11494111000001102	Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices	Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices	Exenatide	250.000microgram/1.000ml	Solution for injection	Subcutaneous	6010203	400000
+4269741000033117	13412911000001100	Vildagliptin 50mg tablets	Vildagliptin 50mg tablets	Vildagliptin	50.000mg	Tablet	Oral	6010203	300000
+4452341000033119	13413111000001109	Vildagliptin 50mg / Metformin 850mg tablets	Vildagliptin 50mg / Metformin 850mg tablets	Metformin hydrochloride/ Vildagliptin	850.000mg + 50.000mg	Tablet	Oral	6010203	40000
+4452441000033113	13413011000001108	Vildagliptin 50mg / Metformin 1g tablets	Vildagliptin 50mg / Metformin 1g tablets	Metformin hydrochloride/ Vildagliptin	1.000gram + 50.000mg	Tablet	Oral	6010203	200000
+4549141000033118	38893811000001107	Metformin 750mg modified-release tablets	Metformin 750mg modified-release tablets	Metformin hydrochloride	750.000mg	Modified-release tablet	Oral	6010202	500000
+4945241000033117	38893711000001104	Metformin 1g modified-release tablets	Metformin 1g modified-release tablets	Metformin hydrochloride	1.000gram	Modified-release tablet	Oral	6010202	4000000
+5007641000033119	15411311000001103	Metformin 500mg oral powder sachets sugar free	Metformin 500mg oral powder sachets sugar free	Metformin hydrochloride	500.000mg	 Powder	Oral	6010202	70000
+5007741000033111	15411211000001106	Metformin 1g oral powder sachets sugar free	Metformin 1g oral powder sachets sugar free	Metformin hydrochloride	1.000gram	 Powder	Oral	6010202	30000
+5131241000033110	15859111000001102	Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices	Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices	Liraglutide	6.000mg/1.000ml	Solution for injection	Subcutaneous	6010203	1000000
+5292241000033113	4255811000001109	Glucose 40% oral gel	Glucose 40% oral gel	Glucose	400.000mg/1.000gram	Oral gel	Oral	6010400	400000
+5316641000033118	39703911000001101	Saxagliptin 5mg tablets	Saxagliptin 5mg tablets	Saxagliptin hydrochloride	5.000mg	Tablet	Oral	6010203	700000
+5576041000033115	17071811000001108	Metformin 1g / Sitagliptin 50mg tablets	Metformin 1g / Sitagliptin 50mg tablets	Metformin hydrochloride/ Sitagliptin phosphate	1.000gram + 50.000mg	Tablet	Oral	6010203	400000
+5709741000033116	16702011000001102	Gliclazide 40mg tablets	Gliclazide 40mg tablets	Gliclazide	40.000mg	Tablet	Oral	6010201	4000000
+5869241000033114	8524211000001102	Gliclazide 40mg/5ml oral suspension	Gliclazide 40mg/5ml oral suspension	Gliclazide	8.000mg/1.000ml	Oral suspension	Oral	6010201	3000
+5966841000033114	8452911000001109	Diazoxide 10mg/5ml oral suspension	Diazoxide 10mg/5ml oral suspension	Diazoxide	2.000mg/1.000ml	Oral suspension	Oral	6010400	40
+5966941000033118	8452811000001104	Diazoxide 10mg/5ml oral solution	Diazoxide 10mg/5ml oral solution	Diazoxide	2.000mg/1.000ml	Oral solution	Oral	6010400	100
+5968741000033115	8523711000001107	Glibenclamide 5mg/5ml oral solution	Glibenclamide 5mg/5ml oral solution	Glibenclamide	1.000mg/1.000ml	Oral solution	Oral	6010201	30
+5968841000033113	8523811000001104	Glibenclamide 5mg/5ml oral suspension	Glibenclamide 5mg/5ml oral suspension	Glibenclamide	1.000mg/1.000ml	Oral suspension	Oral	6010201	20
+5997041000033115	409197000	Metformin 500mg/5ml oral solution	Metformin 500mg/5ml oral solution	Metformin hydrochloride	100.000mg/1.000ml	Oral solution	Oral	6010202	7000
+6123241000033112	39703811000001106	Saxagliptin 2.5mg tablets	Saxagliptin 2.5mg tablets	Saxagliptin hydrochloride	2.500mg	Tablet	Oral	6010203	200000
+6388241000033117	19275411000001107	Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials	Exenatide 2mg powder and solvent for prolonged-release suspension for injection vials	Exenatide	2.000mg	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	6010203	40000
+6444041000033117	19525211000001103	Linagliptin 5mg tablets	Linagliptin 5mg tablets	Linagliptin	5.000mg	Tablet	Oral	6010203	4000000
+6468341000033117	8452611000001103	Diazoxide 100mg/5ml oral solution	Diazoxide 100mg/5ml oral solution	Diazoxide	20.000mg/1.000ml	Oral solution	Oral	6010400	10
+6468441000033111	8452711000001107	Diazoxide 100mg/5ml oral suspension	Diazoxide 100mg/5ml oral suspension	Diazoxide	20.000mg/1.000ml	Oral suspension	Oral	6010400	9
+7687241000033110	424513004	Sitagliptin 50mg tablets	Sitagliptin 50mg tablets	Sitagliptin phosphate	50.000mg	Tablet	Oral	6010203	800000
+7687441000033111	423962004	Sitagliptin 25mg tablets	Sitagliptin 25mg tablets	Sitagliptin phosphate	25.000mg	Tablet	Oral	6010203	300000
+8115741000033119	21245011000001106	Linagliptin 2.5mg / Metformin 1g tablets	Linagliptin 2.5mg / Metformin 1g tablets	Linagliptin/ Metformin hydrochloride	2.500mg + 1000.000mg	Tablet	Oral	6010203	100000
+8115841000033112	21245111000001107	Linagliptin 2.5mg / Metformin 850mg tablets	Linagliptin 2.5mg / Metformin 850mg tablets	Linagliptin/ Metformin hydrochloride	2.500mg + 850.000mg	Tablet	Oral	6010203	20000
+8125241000033119	21366911000001103	Glimepiride 6mg/5ml oral suspension	Glimepiride 6mg/5ml oral suspension	Glimepiride	1.200mg/1.000ml	Oral suspension	Oral	6010201	10
+8182141000033114	11652011000001102	Diazoxide 12.5mg/5ml oral suspension	Diazoxide 12.5mg/5ml oral suspension	Diazoxide	2.500mg/1.000ml	Oral suspension	Oral	6010400	20
+8199341000033118	39689911000001109	Dapagliflozin 5mg tablets	Dapagliflozin 5mg tablets	Dapagliflozin propanediol monohydrate	5.000mg	Tablet	Oral	6010203	200000
+8199441000033112	39689811000001104	Dapagliflozin 10mg tablets	Dapagliflozin 10mg tablets	Dapagliflozin propanediol monohydrate	10.000mg	Tablet	Oral	6010203	2000000
+8242541000033112	21711511000001101	Saxagliptin 2.5mg / Metformin 850mg tablets	Saxagliptin 2.5mg / Metformin 850mg tablets	Metformin hydrochloride/ Saxagliptin hydrochloride	850.000mg + 2.500mg	Tablet	Oral	6010203	2000
+8242641000033113	21711411000001100	Saxagliptin 2.5mg / Metformin 1g tablets	Saxagliptin 2.5mg / Metformin 1g tablets	Metformin hydrochloride/ Saxagliptin hydrochloride	1.000gram + 2.500mg	Tablet	Oral	6010203	20000
+8263941000033117	21939611000001101	Insulin degludec 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec 100units/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	70000
+8264041000033115	21939711000001105	Insulin degludec 200units/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec 200units/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec	200.000unit/1.000ml + 200.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	20000
+8264341000033118	21939511000001100	Insulin degludec 100units/ml solution for injection 3ml cartridges	Insulin degludec 100units/ml solution for injection 3ml cartridges	Insulin degludec	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	30000
+8267341000033110	21994611000001106	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide	50.000microgram/1.000ml	Solution for injection	Subcutaneous	6010203	10000
+8267441000033116	21994811000001105	Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide	100.000microgram/1.000ml	Solution for injection	Subcutaneous	6010203	100000
+8268441000033115	21994711000001102	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices	Lixisenatide 10micrograms/0.2ml solution for injection 3ml pre-filled disposable devices and Lixisenatide 20micrograms/0.2ml solution for injection 3ml pre-filled disposable devices			Not applicable	Route of administration not applicable	6010203	2000
+8298141000033113	22226111000001104	Gliclazide 60mg modified-release tablets	Gliclazide 60mg modified-release tablets	Gliclazide	60.000mg	Modified-release tablet	Oral	6010201	200000
+8959241000033118	23637511000001104	Alogliptin 6.25mg tablets	Alogliptin 6.25mg tablets	Alogliptin benzoate	6.250mg	Tablet	Oral	6010203	60000
+8959341000033111	23637311000001105	Alogliptin 12.5mg tablets	Alogliptin 12.5mg tablets	Alogliptin benzoate	12.500mg	Tablet	Oral	6010203	300000
+8959441000033117	23637411000001103	Alogliptin 25mg tablets	Alogliptin 25mg tablets	Alogliptin benzoate	25.000mg	Tablet	Oral	6010203	1000000
+8959841000033119	23637211000001102	Alogliptin 12.5mg / Metformin 1g tablets	Alogliptin 12.5mg / Metformin 1g tablets	Alogliptin benzoate/ Metformin hydrochloride	12.500mg + 1.000gram	Tablet	Oral	6010203	90000
+9106041000033110	24054611000001100	Dapagliflozin 5mg / Metformin 1g tablets	Dapagliflozin 5mg / Metformin 1g tablets	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 1.000gram	Tablet	Oral	6010203	60000
+9106141000033114	24054711000001109	Dapagliflozin 5mg / Metformin 850mg tablets	Dapagliflozin 5mg / Metformin 850mg tablets	Dapagliflozin propanediol monohydrate/ Metformin hydrochloride	5.000mg + 850.000mg	Tablet	Oral	6010203	5000
+9110341000033112	39734511000001100	Canagliflozin 100mg tablets	Canagliflozin 100mg tablets	Canagliflozin hemihydrate	100.000mg	Tablet	Oral	6010203	500000
+9110441000033118	24104511000001103	Canagliflozin 300mg tablets	Canagliflozin 300mg tablets	Canagliflozin hemihydrate	300.000mg	Tablet	Oral	6010203	400000
+9173841000033115	8453711000001104	Diazoxide 50mg/5ml oral suspension	Diazoxide 50mg/5ml oral suspension	Diazoxide	10.000mg/1.000ml	Oral suspension	Oral	6010400	400
+9336641000033119	25290511000001101	Empagliflozin 10mg tablets	Empagliflozin 10mg tablets	Empagliflozin	10.000mg	Tablet	Oral	6010203	1000000
+9336841000033118	25290611000001102	Empagliflozin 25mg tablets	Empagliflozin 25mg tablets	Empagliflozin	25.000mg	Tablet	Oral	6010203	800000
+9677041000033116	26655811000001102	Insulin aspart 100units/ml solution for injection 1.6ml cartridges	Insulin aspart 100units/ml solution for injection 1.6ml cartridges	Insulin aspart	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Intravenous/ Subcutaneous	6010101	2000
+9851541000033114	28049211000001101	Canagliflozin 50mg / Metformin 1g tablets	Canagliflozin 50mg / Metformin 1g tablets	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 1.000gram	Tablet	Oral	6010203	20000
+9851641000033110	28049311000001109	Canagliflozin 50mg / Metformin 850mg tablets	Canagliflozin 50mg / Metformin 850mg tablets	Canagliflozin hemihydrate/ Metformin hydrochloride	50.000mg + 850.000mg	Tablet	Oral	6010203	3000
+10044541000033113	28279611000001109	Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec 100units/ml / Liraglutide 3.6mg/ml solution for injection 3ml pre-filled disposable devices	Insulin degludec/ Liraglutide	100.000unit/1.000ml + 100.000unit/1.000ml + 3.600mg/1.000ml	Solution for injection	Subcutaneous	6010203	6000
+10207841000033118	28789611000001108	Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide 0.75mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide	1.500mg/1.000ml	Solution for injection	Subcutaneous	6010203	60000
+10207941000033114	28789711000001104	Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide 1.5mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide	3.000mg/1.000ml	Solution for injection	Subcutaneous	6010203	300000
+10494241000033110	29903611000001103	Insulin glargine 300units/ml solution for injection 1.5ml pre-filled disposable devices	Insulin glargine 300units/ml solution for injection 1.5ml pre-filled disposable devices	Insulin glargine	300.000unit/1.000ml + 300.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	10000
+10614141000033116	30318411000001104	Empagliflozin 5mg / Metformin 850mg tablets	Empagliflozin 5mg / Metformin 850mg tablets	Empagliflozin/ Metformin hydrochloride	5.000mg + 850.000mg	Tablet	Oral	6010203	3000
+10614241000033111	30318311000001106	Empagliflozin 5mg / Metformin 1g tablets	Empagliflozin 5mg / Metformin 1g tablets	Empagliflozin/ Metformin hydrochloride	5.000mg + 1.000gram	Tablet	Oral	6010203	30000
+10614341000033118	30318211000001103	Empagliflozin 12.5mg / Metformin 850mg tablets	Empagliflozin 12.5mg / Metformin 850mg tablets	Empagliflozin/ Metformin hydrochloride	12.500mg + 850.000mg	Tablet	Oral	6010203	3000
+10614441000033112	30318111000001109	Empagliflozin 12.5mg / Metformin 1g tablets	Empagliflozin 12.5mg / Metformin 1g tablets	Empagliflozin/ Metformin hydrochloride	12.500mg + 1.000gram	Tablet	Oral	6010203	40000
+10951041000033114	31015711000001109	Albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices	Albiglutide 30mg powder and solvent for solution for injection pre-filled disposable devices	Albiglutide	30.000mg	Powder and solvent for solution for injection	Subcutaneous	6010203	20
+10951141000033113	31015811000001101	Albiglutide 50mg powder and solvent for solution for injection pre-filled disposable devices	Albiglutide 50mg powder and solvent for solution for injection pre-filled disposable devices	Albiglutide	50.000mg	Powder and solvent for solution for injection	Subcutaneous	6010203	4
+11781341000033117	33550811000001105	Metformin 1g/5ml oral solution sugar free	Metformin 1g/5ml oral solution sugar free	Metformin hydrochloride	200.000mg/1.000ml	Oral solution	Oral	6010202	9000
+11781441000033111	33550911000001100	Metformin 850mg/5ml oral solution sugar free	Metformin 850mg/5ml oral solution sugar free	Metformin hydrochloride	170.000mg/1.000ml	Oral solution	Oral	6010202	3000
+11898041000033111	33745311000001109	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Saxagliptin 5mg / Dapagliflozin 10mg tablets	Dapagliflozin propanediol monohydrate/ Saxagliptin hydrochloride	10.000mg + 5.000mg	Tablet	Oral	6010203	6000
+12624241000033111	36048711000001108	Insulin soluble porcine 100units/ml solution for injection 10ml vials	Insulin soluble porcine 100units/ml solution for injection 10ml vials	Insulin soluble porcine	100.000unit/1.000ml + 100.000unit/1.000ml	Solution for injection	Intravenous/ Subcutaneous/ Intramuscular	6010101	200
+12876141000033116	36491111000001100	Semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device	Semaglutide 1mg/0.74ml solution for injection 3ml pre-filled disposable device	Semaglutide	1.340mg/1.000ml	Solution for injection	Subcutaneous	6010203	80000
+12876241000033111	36490911000001109	Semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device	Semaglutide 0.25mg/0.19ml solution for injection 1.5ml pre-filled disposable device	Semaglutide	1.340mg/1.000ml	Solution for injection	Subcutaneous	6010203	30000
+12876341000033118	36491011000001101	Semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device	Semaglutide 0.5mg/0.37ml solution for injection 1.5ml pre-filled disposable device	Semaglutide	1.340mg/1.000ml	Solution for injection	Subcutaneous	6010203	70000
+12880941000033111	36529511000001109	Ertugliflozin 5mg tablets	Ertugliflozin 5mg tablets	Ertugliflozin L-pyroglutamic acid	5.000mg	Tablet	Oral	6010203	4000
+12881041000033118	36529411000001105	Ertugliflozin 15mg tablets	Ertugliflozin 15mg tablets	Ertugliflozin L-pyroglutamic acid	15.000mg	Tablet	Oral	6010203	2000
+12902741000033119	36630511000001105	Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine 100units/ml / Lixisenatide 33micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 100.000unit/1.000ml + 33.000microgram/1.000ml	Solution for injection	Subcutaneous	6010102	20
+12902841000033112	36630611000001109	Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine 100units/ml / Lixisenatide 50micrograms/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine/ Lixisenatide	100.000unit/1.000ml + 100.000unit/1.000ml + 50.000microgram/1.000ml	Solution for injection	Subcutaneous	6010102	80
+12998741000033119	36931811000001104	Insulin glargine 300units/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine 300units/ml solution for injection 3ml pre-filled disposable devices	Insulin glargine	300.000unit/1.000ml + 300.000unit/1.000ml	Solution for injection	Subcutaneous	6010102	700
+12998941000033116	36914911000001102	Gliclazide 160mg tablets	Gliclazide 160mg tablets	Gliclazide	160.000mg	Tablet	Oral	6010201	5000
+13116741000033112	37280311000001109	Empagliflozin 10mg / Linagliptin 5mg tablets	Empagliflozin 10mg / Linagliptin 5mg tablets	Empagliflozin/ Linagliptin	10.000mg + 5.000mg	Tablet	Oral	6010203	700
+13116841000033119	37280511000001103	Empagliflozin 25mg / Linagliptin 5mg tablets	Empagliflozin 25mg / Linagliptin 5mg tablets	Empagliflozin/ Linagliptin	25.000mg + 5.000mg	Tablet	Oral	6010203	500
+13427341000033118	28440211000001102	Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices	Exenatide 2mg powder and solvent for prolonged-release suspension for injection pre-filled disposable devices	Exenatide	2.000mg	Powder and solvent for prolonged-release suspension for inj	Subcutaneous	6010203	6000
+13427541000033113	38082811000001104	Exenatide 2mg/0.85ml prolonged-release suspension for injection pre-filled disposable devices	Exenatide 2mg/0.85ml prolonged-release suspension for injection pre-filled disposable devices	Exenatide	2.353mg/1.000ml	Prolonged-release suspension for injection/	Subcutaneous	6010203	6000
+13712241000033110	38840211000001106	Semaglutide 3mg tablets	Semaglutide 3mg tablets	Semaglutide	3.000mg	Tablet	Oral	6010203	5000
+13712341000033117	38840311000001103	Semaglutide 7mg tablets	Semaglutide 7mg tablets	Semaglutide	7.000mg	Tablet	Oral	6010203	6000
+13712441000033111	38840111000001100	Semaglutide 14mg tablets	Semaglutide 14mg tablets	Semaglutide	14.000mg	Tablet	Oral	6010203	3000
+13753141000033118	39233411000001108	Dulaglutide 3mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide 3mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide	6.000mg/1.000ml	Solution for injection	Subcutaneous	6010203	9000
+13753241000033113	39233511000001107	Dulaglutide 4.5mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide 4.5mg/0.5ml solution for injection pre-filled disposable devices	Dulaglutide	9.000mg/1.000ml	Solution for injection	Subcutaneous	6010203	2000
+13803041000033110	39461411000001102	Metformin 1g tablets	Metformin 1g tablets	Metformin hydrochloride	1.000gram	Tablet	Oral	6010202	4000
+13959441000033117	40389311000001102	Glucagon 1mg/0.2ml solution for injection pre-filled disposable devices	Glucagon 1mg/0.2ml solution for injection pre-filled disposable devices	Glucagon	5.000mg/1.000ml	Solution for injection	Subcutaneous	6010400	200
+13959541000033116	40389411000001109	Glucagon 500micrograms/0.1ml solution for injection pre-filled disposable devices	Glucagon 500micrograms/0.1ml solution for injection pre-filled disposable devices	Glucagon	5.000mg/1.000ml	Solution for injection	Subcutaneous	6010400	40
+211541000033119	318980005	Candesartan 16mg tablets	Candesartan 16mg tablets	Candesartan cilexetil	16.000mg	Tablet	Oral	2050502	8000000
+211641000033118	318977009	Candesartan 2mg tablets	Candesartan 2mg tablets	Candesartan cilexetil	2.000mg	Tablet	Oral	2050502	2000000
+211741000033110	318978004	Candesartan 4mg tablets	Candesartan 4mg tablets	Candesartan cilexetil	4.000mg	Tablet	Oral	2050502	7000000
+211841000033117	318979007	Candesartan 8mg tablets	Candesartan 8mg tablets	Candesartan cilexetil	8.000mg	Tablet	Oral	2050502	10000000
+213441000033119	318820009	Captopril 12.5mg tablets	Captopril 12.5mg tablets	Captopril	12.500mg	Tablet	Oral	2050501	1000000
+214441000033117	318821008	Captopril 25mg tablets	Captopril 25mg tablets	Captopril	25.000mg	Tablet	Oral	2050501	2000000
+214541000033116	318824000	Captopril 50mg tablets	Captopril 50mg tablets	Captopril	50.000mg	Tablet	Oral	2050501	1000000
+258141000033110	39685211000001103	Cilazapril 1mg tablets	Cilazapril 1mg tablets	Cilazapril monohydrate	1.000mg	Tablet	Oral	2050501	30000
+258241000033115	39685311000001106	Cilazapril 2.5mg tablets	Cilazapril 2.5mg tablets	Cilazapril monohydrate	2.500mg	Tablet	Oral	2050501	30000
+258441000033119	39686011000001104	Cilazapril 500microgram tablets	Cilazapril 500microgram tablets	Cilazapril monohydrate	500.000microgram	Tablet	Oral	2050501	10000
+258641000033117	39685911000001107	Cilazapril 5mg tablets	Cilazapril 5mg tablets	Cilazapril monohydrate	5.000mg	Tablet	Oral	2050501	50000
+261841000033118	36089511000001100	Clonidine 250microgram modified-release capsules	Clonidine 250microgram modified-release capsules	Clonidine hydrochloride	250.000microgram	Modified-release capsule	Oral	2050200	3000
+275641000033110	36089211000001103	Clonidine 150micrograms/1ml solution for injection ampoules	Clonidine 150micrograms/1ml solution for injection ampoules	Clonidine hydrochloride	150.000microgram/1.000ml	Solution for injection	Intravenous	2050200	2000
+285841000033118	318667005	Clonidine 100microgram tablets	Clonidine 100microgram tablets	Clonidine hydrochloride	100.000microgram	Tablet	Oral	2050200	200000
+287241000033110	318668000	Clonidine 300microgram tablets	Clonidine 300microgram tablets	Clonidine hydrochloride	300.000microgram	Tablet	Oral	2050200	6000
+430641000033119	318724006	Debrisoquine 10mg tablets	Debrisoquine 10mg tablets	Debrisoquine sulfate	10.000mg	Tablet	Oral	2050300	10000
+448841000033117	36097811000001109	Diazoxide 300mg/20ml solution for injection ampoules	Diazoxide 300mg/20ml solution for injection ampoules	Diazoxide	15.000mg/1.000ml	Solution for injection	Intravenous	2050100	20
+480641000033111	318781001	Doxazosin 1mg tablets	Doxazosin 1mg tablets	Doxazosin mesilate	1.000mg	Tablet	Oral	2050400	5000000
+480741000033119	318782008	Doxazosin 2mg tablets	Doxazosin 2mg tablets	Doxazosin mesilate	2.000mg	Tablet	Oral	2050400	9000000
+480841000033112	318783003	Doxazosin 4mg tablets	Doxazosin 4mg tablets	Doxazosin mesilate	4.000mg	Tablet	Oral	2050400	10000000
+522641000033110	318853004	Enalapril 10mg tablets	Enalapril 10mg tablets	Enalapril maleate	10.000mg	Tablet	Oral	2050501	6000000
+522741000033118	318855006	Enalapril 20mg tablets	Enalapril 20mg tablets	Enalapril maleate	20.000mg	Tablet	Oral	2050501	7000000
+522841000033111	318851002	Enalapril 5mg tablets	Enalapril 5mg tablets	Enalapril maleate	5.000mg	Tablet	Oral	2050501	5000000
+523541000033115	318850001	Enalapril 2.5mg tablets	Enalapril 2.5mg tablets	Enalapril maleate	2.500mg	Tablet	Oral	2050501	2000000
+609141000033111	318909008	Fosinopril 10mg tablets	Fosinopril 10mg tablets	Fosinopril sodium	10.000mg	Tablet	Oral	2050501	400000
+609241000033116	318910003	Fosinopril 20mg tablets	Fosinopril 20mg tablets	Fosinopril sodium	20.000mg	Tablet	Oral	2050501	500000
+655241000033111	36053311000001103	Guanethidine 10mg/1ml solution for injection ampoules	Guanethidine 10mg/1ml solution for injection ampoules	Guanethidine monosulfate	10.000mg/1.000ml	Solution for injection	Intramuscular	2050300	90
+734141000033114	34193811000001100	Hydralazine 20mg powder for solution for injection ampoules	Hydralazine 20mg powder for solution for injection ampoules	Hydralazine hydrochloride	20.000mg	Powder for solution for injection	Intravenous	2050100	10
+741941000033113	318649003	Hydralazine 25mg tablets	Hydralazine 25mg tablets	Hydralazine hydrochloride	25.000mg	Tablet	Oral	2050100	600000
+742041000033119	318650003	Hydralazine 50mg tablets	Hydralazine 50mg tablets	Hydralazine hydrochloride	50.000mg	Tablet	Oral	2050100	300000
+769841000033111	39696711000001101	Indoramin 25mg tablets	Indoramin 25mg tablets	Indoramin hydrochloride	25.000mg	Tablet	Oral	2050400	30000
+775441000033117	318969005	Irbesartan 150mg tablets	Irbesartan 150mg tablets	Irbesartan	150.000mg	Tablet	Oral	2050502	5000000
+775541000033116	318970006	Irbesartan 300mg tablets	Irbesartan 300mg tablets	Irbesartan	300.000mg	Tablet	Oral	2050502	5000000
+775641000033115	318968002	Irbesartan 75mg tablets	Irbesartan 75mg tablets	Irbesartan	75.000mg	Tablet	Oral	2050502	2000000
+837841000033110	318859000	Lisinopril 10mg tablets	Lisinopril 10mg tablets	Lisinopril	10.000mg	Tablet	Oral	2050501	20000000
+837941000033119	318857003	Lisinopril 2.5mg tablets	Lisinopril 2.5mg tablets	Lisinopril	2.500mg	Tablet	Oral	2050501	7000000
+838041000033116	318860005	Lisinopril 20mg tablets	Lisinopril 20mg tablets	Lisinopril	20.000mg	Tablet	Oral	2050501	20000000
+838141000033117	318858008	Lisinopril 5mg tablets	Lisinopril 5mg tablets	Lisinopril	5.000mg	Tablet	Oral	2050501	10000000
+851841000033117	318955005	Losartan 25mg tablets	Losartan 25mg tablets	Losartan potassium	25.000mg	Tablet	Oral	2050502	7000000
+851941000033113	318956006	Losartan 50mg tablets	Losartan 50mg tablets	Losartan potassium	50.000mg	Tablet	Oral	2050502	20000000
+892341000033112	8667311000001100	Methyldopa 250mg/5ml oral suspension	Methyldopa 250mg/5ml oral suspension	Methyldopa anhydrous	50.000mg/1.000ml	Oral suspension	Oral	2050200	2000
+897341000033110	318671008	Methyldopa 125mg tablets	Methyldopa 125mg tablets	Methyldopa anhydrous	125.000mg	Tablet	Oral	2050200	100000
+897441000033116	318672001	Methyldopa 250mg tablets	Methyldopa 250mg tablets	Methyldopa anhydrous	250.000mg	Tablet	Oral	2050200	800000
+897541000033115	318673006	Methyldopa 500mg tablets	Methyldopa 500mg tablets	Methyldopa anhydrous	500.000mg	Tablet	Oral	2050200	300000
+920641000033119	318657000	Minoxidil 10mg tablets	Minoxidil 10mg tablets	Minoxidil	10.000mg	Tablet	Oral	2050100	60000
+920841000033118	318655008	Minoxidil 2.5mg tablets	Minoxidil 2.5mg tablets	Minoxidil	2.500mg	Tablet	Oral	2050100	40000
+920941000033114	318656009	Minoxidil 5mg tablets	Minoxidil 5mg tablets	Minoxidil	5.000mg	Tablet	Oral	2050100	80000
+938041000033113	318935009	Moexipril 15mg tablets	Moexipril 15mg tablets	Moexipril hydrochloride	15.000mg	Tablet	Oral	2050501	3000
+938141000033112	318934008	Moexipril 7.5mg tablets	Moexipril 7.5mg tablets	Moexipril hydrochloride	7.500mg	Tablet	Oral	2050501	3000
+938541000033115	318707000	Moxonidine 200microgram tablets	Moxonidine 200microgram tablets	Moxonidine	200.000microgram	Tablet	Oral	2050200	1000000
+938641000033119	318708005	Moxonidine 400microgram tablets	Moxonidine 400microgram tablets	Moxonidine	400.000microgram	Tablet	Oral	2050200	800000
+1067841000033115	318896009	Perindopril erbumine 2mg tablets	Perindopril erbumine 2mg tablets	Perindopril erbumine	2.000mg	Tablet	Oral	2050501	10000000
+1067941000033111	318897000	Perindopril erbumine 4mg tablets	Perindopril erbumine 4mg tablets	Perindopril erbumine	4.000mg	Tablet	Oral	2050501	20000000
+1070341000033119	318745004	Phenoxybenzamine 10mg capsules	Phenoxybenzamine 10mg capsules	Phenoxybenzamine hydrochloride	10.000mg	Capsule	Oral	2050400	10000
+1131341000033118	318767003	Prazosin 500microgram tablets	Prazosin 500microgram tablets	Prazosin hydrochloride	500.000microgram	Tablet	Oral	2050400	300000
+1131441000033112	318768008	Prazosin 1mg tablets	Prazosin 1mg tablets	Prazosin hydrochloride	1.000mg	Tablet	Oral	2050400	400000
+1131541000033113	318769000	Prazosin 2mg tablets	Prazosin 2mg tablets	Prazosin hydrochloride	2.000mg	Tablet	Oral	2050400	200000
+1131641000033114	318770004	Prazosin 5mg tablets	Prazosin 5mg tablets	Prazosin hydrochloride	5.000mg	Tablet	Oral	2050400	60000
+1149241000033111	318885001	Quinapril 5mg tablets	Quinapril 5mg tablets	Quinapril hydrochloride	5.000mg	Tablet	Oral	2050501	200000
+1149341000033118	318886000	Quinapril 10mg tablets	Quinapril 10mg tablets	Quinapril hydrochloride	10.000mg	Tablet	Oral	2050501	300000
+1149441000033112	318887009	Quinapril 20mg tablets	Quinapril 20mg tablets	Quinapril hydrochloride	20.000mg	Tablet	Oral	2050501	300000
+1149541000033113	318894007	Quinapril 40mg tablets	Quinapril 40mg tablets	Quinapril hydrochloride	40.000mg	Tablet	Oral	2050501	200000
+1151341000033117	318900007	Ramipril 1.25mg capsules	Ramipril 1.25mg capsules	Ramipril	1.250mg	Capsule	Oral	2050501	10000000
+1151441000033111	318901006	Ramipril 2.5mg capsules	Ramipril 2.5mg capsules	Ramipril	2.500mg	Capsule	Oral	2050501	30000000
+1151541000033112	318902004	Ramipril 5mg capsules	Ramipril 5mg capsules	Ramipril	5.000mg	Capsule	Oral	2050501	30000000
+1357141000033115	375899001	Sodium nitroprusside 50mg powder for solution for infusion vials	Sodium nitroprusside 50mg powder for solution for infusion vials	Sodium nitroprusside dihydrate	50.000mg	 Powder for solution for infusion	Intravenous	2050100	30
+1423641000033114	35915811000001105	Terazosin 2mg tablets and Terazosin 1mg tablets	Terazosin 2mg tablets and Terazosin 1mg tablets			Not applicable	Route of administration not applicable	2050400	7000
+1425341000033119	318779003	Terazosin 2mg tablets	Terazosin 2mg tablets	Terazosin hydrochloride	2.000mg	Tablet	Oral	2050400	300000
+1429041000033118	318777001	Terazosin 10mg tablets	Terazosin 10mg tablets	Terazosin hydrochloride	10.000mg	Tablet	Oral	2050400	200000
+1429141000033119	318776005	Terazosin 5mg tablets	Terazosin 5mg tablets	Terazosin hydrochloride	5.000mg	Tablet	Oral	2050400	300000
+1453941000033115	318925003	Trandolapril 1mg capsules	Trandolapril 1mg capsules	Trandolapril	1.000mg	Capsule	Oral	2050501	200000
+1454041000033118	318926002	Trandolapril 2mg capsules	Trandolapril 2mg capsules	Trandolapril	2.000mg	Capsule	Oral	2050501	600000
+1454141000033119	318924004	Trandolapril 500microgram capsules	Trandolapril 500microgram capsules	Trandolapril	500.000microgram	Capsule	Oral	2050501	70000
+1498241000033111	318963006	Valsartan 160mg capsules	Valsartan 160mg capsules	Valsartan	160.000mg	Capsule	Oral	2050502	2000000
+1498341000033118	318961008	Valsartan 40mg capsules	Valsartan 40mg capsules	Valsartan	40.000mg	Capsule	Oral	2050502	1000000
+1498441000033112	318962001	Valsartan 80mg capsules	Valsartan 80mg capsules	Valsartan	80.000mg	Capsule	Oral	2050502	3000000
+1739741000033112	318944005	Imidapril 10mg tablets	Imidapril 10mg tablets	Imidapril hydrochloride	10.000mg	Tablet	Oral	2050501	80000
+1739841000033119	318943004	Imidapril 5mg tablets	Imidapril 5mg tablets	Imidapril hydrochloride	5.000mg	Tablet	Oral	2050501	40000
+1769841000033111	318906001	Ramipril 10mg capsules	Ramipril 10mg capsules	Ramipril	10.000mg	Capsule	Oral	2050501	40000000
+1849541000033118	318986004	Telmisartan 40mg tablets	Telmisartan 40mg tablets	Telmisartan	40.000mg	Tablet	Oral	2050502	1000000
+1849641000033117	318987008	Telmisartan 80mg tablets	Telmisartan 80mg tablets	Telmisartan	80.000mg	Tablet	Oral	2050502	1000000
+1893141000033119	318806002	Co-zidocapt 12.5mg/25mg tablets	Co-zidocapt 12.5mg/25mg tablets	Captopril/ Hydrochlorothiazide	25.000mg + 12.500mg	Tablet	Oral	2050501	3000
+1893241000033114	318807006	Co-zidocapt 25mg/50mg tablets	Co-zidocapt 25mg/50mg tablets	Captopril/ Hydrochlorothiazide	50.000mg + 25.000mg	Tablet	Oral	2050501	40000
+2036341000033115	318994006	Eprosartan 300mg tablets	Eprosartan 300mg tablets	Eprosartan mesilate	300.000mg	Tablet	Oral	2050502	200000
+2036441000033114	318995007	Eprosartan 400mg tablets	Eprosartan 400mg tablets	Eprosartan mesilate	400.000mg	Tablet	Oral	2050502	200000
+2036541000033110	318996008	Eprosartan 600mg tablets	Eprosartan 600mg tablets	Eprosartan mesilate	600.000mg	Tablet	Oral	2050502	500000
+2145841000033114	318942009	Imidapril 20mg tablets	Imidapril 20mg tablets	Imidapril hydrochloride	20.000mg	Tablet	Oral	2050501	40000
+2272641000033119	134463001	Telmisartan 20mg tablets	Telmisartan 20mg tablets	Telmisartan	20.000mg	Tablet	Oral	2050502	500000
+2273841000033111	39020411000001106	Doxazosin 4mg modified-release tablets	Doxazosin 4mg modified-release tablets	Doxazosin mesilate	4.000mg	Modified-release tablet	Oral	2050400	3000000
+2273941000033115	39021111000001107	Doxazosin 8mg modified-release tablets	Doxazosin 8mg modified-release tablets	Doxazosin mesilate	8.000mg	Modified-release tablet	Oral	2050400	3000000
+2635641000033111	408604009	Moxonidine 300microgram tablets	Moxonidine 300microgram tablets	Moxonidine	300.000microgram	Tablet	Oral	2050200	500000
+2656341000033110	8351811000001102	Captopril 5mg/5ml oral suspension	Captopril 5mg/5ml oral suspension	Captopril	1.000mg/1.000ml	Oral suspension	Oral	2050501	7000
+2719841000033113	8348311000001101	Captopril 20mg/5ml oral suspension	Captopril 20mg/5ml oral suspension	Captopril	4.000mg/1.000ml	Oral suspension	Oral	2050501	1000
+2720141000033115	407784004	Losartan 100mg tablets	Losartan 100mg tablets	Losartan potassium	100.000mg	Tablet	Oral	2050502	10000000
+2757941000033118	8671511000001109	Phenoxybenzamine 25mg/5ml oral suspension	Phenoxybenzamine 25mg/5ml oral suspension	Phenoxybenzamine hydrochloride	5.000mg/1.000ml	Oral suspension	Oral	2050400	4
+2845941000033110	39734011000001108	Bosentan 62.5mg tablets	Bosentan 62.5mg tablets	Bosentan monohydrate	62.500mg	Tablet	Oral	2050100	300
+2846141000033118	39733911000001105	Bosentan 125mg tablets	Bosentan 125mg tablets	Bosentan monohydrate	125.000mg	Tablet	Oral	2050100	700
+2846741000033119	374667004	Perindopril erbumine 8mg tablets	Perindopril erbumine 8mg tablets	Perindopril erbumine	8.000mg	Tablet	Oral	2050501	10000000
+2883341000033118	8720911000001100	Ramipril 5mg/5ml oral suspension	Ramipril 5mg/5ml oral suspension	Ramipril	1.000mg/1.000ml	Oral suspension	Oral	2050501	8000
+2944541000033111	408055003	Olmesartan medoxomil 10mg tablets	Olmesartan medoxomil 10mg tablets	Olmesartan medoxomil	10.000mg	Tablet	Oral	2050502	1000000
+2944641000033112	385542009	Olmesartan medoxomil 20mg tablets	Olmesartan medoxomil 20mg tablets	Olmesartan medoxomil	20.000mg	Tablet	Oral	2050502	1000000
+2944741000033115	385543004	Olmesartan medoxomil 40mg tablets	Olmesartan medoxomil 40mg tablets	Olmesartan medoxomil	40.000mg	Tablet	Oral	2050502	600000
+2989541000033115	408040007	Ramipril 1.25mg tablets	Ramipril 1.25mg tablets	Ramipril	1.250mg	Tablet	Oral	2050501	600000
+2989641000033119	408050008	Ramipril 2.5mg tablets	Ramipril 2.5mg tablets	Ramipril	2.500mg	Tablet	Oral	2050501	2000000
+2989741000033111	408051007	Ramipril 5mg tablets	Ramipril 5mg tablets	Ramipril	5.000mg	Tablet	Oral	2050501	1000000
+2989841000033118	408052000	Ramipril 10mg tablets	Ramipril 10mg tablets	Ramipril	10.000mg	Tablet	Oral	2050501	2000000
+3012741000033115	8348511000001107	Captopril 25mg/5ml oral solution	Captopril 25mg/5ml oral solution	Captopril	5.000mg/1.000ml	Oral solution	Oral	2050501	9000
+3014741000033111	410958005	Trandolapril 4mg capsules	Trandolapril 4mg capsules	Trandolapril	4.000mg	Capsule	Oral	2050501	200000
+3106941000033114	36143911000001108	Trimetaphan camsilate 250mg/5ml solution for injection ampoules	Trimetaphan camsilate 250mg/5ml solution for injection ampoules	Trimetaphan camsilate	50.000mg/1.000ml	Solution for injection	Intravenous	2050600	20
+3108541000033116	36015411000001100	Phentolamine 10mg/1ml solution for injection ampoules	Phentolamine 10mg/1ml solution for injection ampoules	Phentolamine mesilate	10.000mg/1.000ml	Solution for injection	Intravenous/ Intramuscular	2050400	700
+3152141000033115	8622611000001101	Lisinopril 5mg/5ml oral suspension	Lisinopril 5mg/5ml oral suspension	Lisinopril	1.000mg/1.000ml	Oral suspension	Oral	2050501	7000
+3160641000033118	39693411000001102	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Quinapril hydrochloride	12.500mg + 10.000mg	Tablet	Oral	2050501	20000
+3160841000033117	318884002	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Lisinopril	12.500mg + 10.000mg	Tablet	Oral	2050501	400000
+3160941000033113	318880006	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Lisinopril	12.500mg + 20.000mg	Tablet	Oral	2050501	900000
+3161141000033116	134461004	Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets	Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Irbesartan	12.500mg + 150.000mg	Tablet	Oral	2050502	300000
+3161241000033111	134460003	Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets	Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Irbesartan	12.500mg + 300.000mg	Tablet	Oral	2050502	400000
+3161441000033112	395521005	Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets	Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Valsartan	12.500mg + 160.000mg	Tablet	Oral	2050502	200000
+3161541000033113	409298002	Valsartan 160mg / Hydrochlorothiazide 25mg tablets	Valsartan 160mg / Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide/ Valsartan	25.000mg + 160.000mg	Tablet	Oral	2050502	100000
+3161641000033114	3437611000001100	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Perindopril erbumine 4mg / Indapamide 1.25mg tablets	Indapamide/ Perindopril erbumine	1.250mg + 4.000mg	Tablet	Oral	2050501	300000
+3161741000033117	318959004	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets	Losartan 50mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Losartan potassium	12.500mg + 50.000mg	Tablet	Oral	2050502	500000
+3162241000033117	39691911000001109	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets	Enalapril maleate/ Hydrochlorothiazide	20.000mg + 12.500mg	Tablet	Oral	2050501	90000
+3162641000033119	407855002	Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets	Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Telmisartan	12.500mg + 40.000mg	Tablet	Oral	2050502	100000
+3162741000033111	407856001	Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets	Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Telmisartan	12.500mg + 80.000mg	Tablet	Oral	2050502	200000
+3163041000033116	36149211000001102	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Verapamil 180mg modified-release / Trandolapril 2mg capsules	Trandolapril/ Verapamil hydrochloride	2.000mg + 180.000mg	Modified-release capsule	Oral	2050501	10000
+3163241000033112	318177008	Felodipine 5mg modified-release / Ramipril 5mg tablets	Felodipine 5mg modified-release / Ramipril 5mg tablets	Felodipine/ Ramipril	5.000mg + 5.000mg	Modified-release tablet	Oral	2050501	60000
+3163341000033119	318176004	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets	Felodipine/ Ramipril	2.500mg + 2.500mg	Modified-release tablet	Oral	2050501	9000
+3190741000033112	377488008	Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets	Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Valsartan	12.500mg + 80.000mg	Tablet	Oral	2050502	100000
+3201341000033115	416515008	Valsartan 40mg tablets	Valsartan 40mg tablets	Valsartan	40.000mg	Tablet	Oral	2050502	60000
+3227241000033111	376998003	Candesartan 32mg tablets	Candesartan 32mg tablets	Candesartan cilexetil	32.000mg	Tablet	Oral	2050502	3000000
+3333941000033117	19820711000001101	Captopril 8mg/5ml oral suspension	Captopril 8mg/5ml oral suspension	Captopril	1.600mg/1.000ml	Oral suspension	Oral	2050501	100
+3346841000033117	395497004	Losartan 100mg / Hydrochlorothiazide 25mg tablets	Losartan 100mg / Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide/ Losartan potassium	25.000mg + 100.000mg	Tablet	Oral	2050502	400000
+3851341000033117	8350511000001107	Captopril 3mg/5ml oral solution	Captopril 3mg/5ml oral solution	Captopril	600.000microgram/1.000ml	Oral solution	Oral	2050501	900
+3890641000033111	419015002	Sildenafil 20mg tablets	Sildenafil 20mg tablets	Sildenafil citrate	20.000mg	Tablet	Oral	2050100	8000
+3908941000033112	409184002	Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 20.000mg	Tablet	Oral	2050502	70000
+3909041000033115	10270711000001105	Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets	Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide/ Olmesartan medoxomil	25.000mg + 20.000mg	Tablet	Oral	2050502	20000
+3940841000033110	8791811000001109	Captopril 2mg capsules	Captopril 2mg capsules	Captopril	2.000mg	Capsule	Oral	2050501	200
+3995241000033112	10970311000001105	Irbesartan 300mg / Hydrochlorothiazide 25mg tablets	Irbesartan 300mg / Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide/ Irbesartan	25.000mg + 300.000mg	Tablet	Oral	2050502	60000
+4023641000033112	39716411000001102	Iloprost 10micrograms/1ml nebuliser liquid ampoules	Iloprost 10micrograms/1ml nebuliser liquid ampoules	Iloprost trometamol	10.000microgram/1.000ml	 Nebuliser liquid	Inhalation	2050100	100
+4152241000033113	8720311000001101	Ramipril 1.25mg/5ml oral suspension	Ramipril 1.25mg/5ml oral suspension	Ramipril	250.000microgram/1.000ml	Oral suspension	Oral	2050501	1000
+4156341000033119	11394311000001108	Sitaxentan 100mg tablets	Sitaxentan 100mg tablets	Sitaxentan sodium	100.000mg	Tablet	Oral	2050100	30
+4213641000033112	39731411000001101	Aliskiren 150mg tablets	Aliskiren 150mg tablets	Aliskiren hemifumarate	150.000mg	Tablet	Oral	2050503	100000
+4213741000033115	39731511000001102	Aliskiren 300mg tablets	Aliskiren 300mg tablets	Aliskiren hemifumarate	300.000mg	Tablet	Oral	2050503	70000
+4273241000033118	14680711000001103	Olmesartan medoxomil 10mg/5ml oral suspension	Olmesartan medoxomil 10mg/5ml oral suspension	Olmesartan medoxomil	2.000mg/1.000ml	Oral suspension	Oral	2050502	100
+4424741000033110	13112711000001103	Losartan 100mg / Hydrochlorothiazide 12.5mg tablets	Losartan 100mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Losartan potassium	12.500mg + 100.000mg	Tablet	Oral	2050502	100000
+4424941000033113	376487009	Valsartan 320mg tablets	Valsartan 320mg tablets	Valsartan	320.000mg	Tablet	Oral	2050502	70000
+4432941000033119	8483411000001101	Doxazosin 1mg/5ml oral suspension	Doxazosin 1mg/5ml oral suspension	Doxazosin mesilate	200.000microgram/1.000ml	Oral suspension	Oral	2050400	1000
+4453941000033114	13454211000001109	Perindopril arginine 2.5mg tablets	Perindopril arginine 2.5mg tablets	Perindopril arginine	2.500mg	Tablet	Oral	2050501	30000
+4454041000033111	13454411000001108	Perindopril arginine 5mg tablets	Perindopril arginine 5mg tablets	Perindopril arginine	5.000mg	Tablet	Oral	2050501	60000
+4454141000033110	13454111000001103	Perindopril arginine 10mg tablets	Perindopril arginine 10mg tablets	Perindopril arginine	10.000mg	Tablet	Oral	2050501	70000
+4454541000033118	13454311000001101	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Perindopril arginine 5mg / Indapamide 1.25mg tablets	Indapamide/ Perindopril arginine	1.250mg + 5.000mg	Tablet	Oral	2050501	300000
+4456241000033111	8528611000001105	Hydralazine 10mg/5ml oral suspension	Hydralazine 10mg/5ml oral suspension	Hydralazine hydrochloride	2.000mg/1.000ml	Oral suspension	Oral	2050100	300
+4520941000033113	429662009	Ambrisentan 5mg tablets	Ambrisentan 5mg tablets	Ambrisentan	5.000mg	Tablet	Oral	2050100	300
+4521041000033115	428480001	Ambrisentan 10mg tablets	Ambrisentan 10mg tablets	Ambrisentan	10.000mg	Tablet	Oral	2050100	200
+4548741000033111	13731911000001109	Telmisartan 80mg / Hydrochlorothiazide 25mg tablets	Telmisartan 80mg / Hydrochlorothiazide 25mg tablets	Hydrochlorothiazide/ Telmisartan	25.000mg + 80.000mg	Tablet	Oral	2050502	10000
+4805941000033114	8720711000001102	Ramipril 2.5mg/5ml oral suspension	Ramipril 2.5mg/5ml oral suspension	Ramipril	500.000microgram/1.000ml	Oral suspension	Oral	2050501	5000
+4954341000033111	12639511000001103	Irbesartan 300mg/5ml oral suspension	Irbesartan 300mg/5ml oral suspension	Irbesartan	60.000mg/1.000ml	Oral suspension	Oral	2050502	600
+4957541000033114	15148111000001100	Losartan 12.5mg tablets	Losartan 12.5mg tablets	Losartan potassium	12.500mg	Tablet	Oral	2050502	500000
+5005841000033114	429502004	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Olmesartan medoxomil 20mg / Amlodipine 5mg tablets	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 20.000mg	Tablet	Oral	2050502	30000
+5005941000033118	429503009	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Olmesartan medoxomil 40mg / Amlodipine 5mg tablets	Amlodipine besilate/ Olmesartan medoxomil	5.000mg + 40.000mg	Tablet	Oral	2050502	20000
+5006041000033111	429678006	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Olmesartan medoxomil 40mg / Amlodipine 10mg tablets	Amlodipine besilate/ Olmesartan medoxomil	10.000mg + 40.000mg	Tablet	Oral	2050502	20000
+5008141000033111	8346811000001109	Captopril 10mg/5ml oral suspension	Captopril 10mg/5ml oral suspension	Captopril	2.000mg/1.000ml	Oral suspension	Oral	2050501	300
+5132041000033112	8348611000001106	Captopril 25mg/5ml oral suspension	Captopril 25mg/5ml oral suspension	Captopril	5.000mg/1.000ml	Oral suspension	Oral	2050501	3000
+5138341000033111	8483511000001102	Doxazosin 4mg/5ml oral suspension	Doxazosin 4mg/5ml oral suspension	Doxazosin mesilate	800.000microgram/1.000ml	Oral suspension	Oral	2050400	1000
+5149941000033118	15507411000001105	Losartan 2.5mg/ml oral suspension sugar free	Losartan 2.5mg/ml oral suspension sugar free	Losartan potassium	2.500mg/1.000ml	Oral suspension	Oral	2050502	4000
+5289041000033110	7660211000001104	Clonidine 200micrograms/24hours transdermal patches	Clonidine 200micrograms/24hours transdermal patches	Clonidine	200.000microgram/24.000hour	Transdermal patch	Transdermal	2050200	400
+5401641000033118	8347411000001109	Captopril 15mg/5ml oral suspension	Captopril 15mg/5ml oral suspension	Captopril	3.000mg/1.000ml	Oral suspension	Oral	2050501	40
+5454041000033117	8791911000001104	Captopril 4mg capsules	Captopril 4mg capsules	Captopril	4.000mg	Capsule	Oral	2050501	20
+5566341000033111	409185001	Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets	Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets	Hydrochlorothiazide/ Olmesartan medoxomil	12.500mg + 40.000mg	Tablet	Oral	2050502	20000
+5568741000033113	20556011000001103	Lisinopril 40mg/5ml oral suspension	Lisinopril 40mg/5ml oral suspension	Lisinopril	8.000mg/1.000ml	Oral suspension	Oral	2050501	200
+5887841000033118	8720411000001108	Ramipril 10mg/5ml oral solution	Ramipril 10mg/5ml oral solution	Ramipril	2.000mg/1.000ml	Oral solution	Oral	2050501	600
+5887941000033114	8720511000001107	Ramipril 10mg/5ml oral suspension	Ramipril 10mg/5ml oral suspension	Ramipril	2.000mg/1.000ml	Oral suspension	Oral	2050501	1000
+5890241000033117	8622511000001100	Lisinopril 5mg/5ml oral solution	Lisinopril 5mg/5ml oral solution	Lisinopril	1.000mg/1.000ml	Oral solution	Oral	2050501	5000
+5890341000033110	8720811000001105	Ramipril 5mg/5ml oral solution	Ramipril 5mg/5ml oral solution	Ramipril	1.000mg/1.000ml	Oral solution	Oral	2050501	1000
+5890541000033115	8720611000001106	Ramipril 2.5mg/5ml oral solution	Ramipril 2.5mg/5ml oral solution	Ramipril	500.000microgram/1.000ml	Oral solution	Oral	2050501	300
+5898741000033114	8347111000001104	Captopril 12.5mg/5ml oral solution	Captopril 12.5mg/5ml oral solution	Captopril	2.500mg/1.000ml	Oral solution	Oral	2050501	100
+5898841000033116	8347211000001105	Captopril 12.5mg/5ml oral suspension	Captopril 12.5mg/5ml oral suspension	Captopril	2.500mg/1.000ml	Oral suspension	Oral	2050501	80
+5898941000033112	8351911000001107	Captopril 6.25mg/5ml oral solution	Captopril 6.25mg/5ml oral solution	Captopril	1.250mg/1.000ml	Oral solution	Oral	2050501	60
+5899041000033115	8352011000001100	Captopril 6.25mg/5ml oral suspension	Captopril 6.25mg/5ml oral suspension	Captopril	1.250mg/1.000ml	Oral suspension	Oral	2050501	80
+5967041000033117	8485711000001108	Enalapril 10mg/5ml oral solution	Enalapril 10mg/5ml oral solution	Enalapril maleate	2.000mg/1.000ml	Oral solution	Oral	2050501	100
+5967141000033118	8485811000001100	Enalapril 10mg/5ml oral suspension	Enalapril 10mg/5ml oral suspension	Enalapril maleate	2.000mg/1.000ml	Oral suspension	Oral	2050501	200
+5970641000033117	8580811000001101	Irbesartan 150mg/5ml oral suspension	Irbesartan 150mg/5ml oral suspension	Irbesartan	30.000mg/1.000ml	Oral suspension	Oral	2050502	80
+5971341000033117	8622111000001109	Lisinopril 2.5mg/5ml oral solution	Lisinopril 2.5mg/5ml oral solution	Lisinopril	500.000microgram/1.000ml	Oral solution	Oral	2050501	500
+5971441000033111	8622211000001103	Lisinopril 2.5mg/5ml oral suspension	Lisinopril 2.5mg/5ml oral suspension	Lisinopril	500.000microgram/1.000ml	Oral suspension	Oral	2050501	200
+5971541000033112	8622811000001102	Lisinopril 7.5mg/5ml oral solution	Lisinopril 7.5mg/5ml oral solution	Lisinopril	1.500mg/1.000ml	Oral solution	Oral	2050501	50
+5971641000033113	8622911000001107	Lisinopril 7.5mg/5ml oral suspension	Lisinopril 7.5mg/5ml oral suspension	Lisinopril	1.500mg/1.000ml	Oral suspension	Oral	2050501	100
+5971741000033116	15451111000001107	Losartan 100mg/5ml oral solution	Losartan 100mg/5ml oral solution	Losartan potassium	20.000mg/1.000ml	Oral solution	Oral	2050502	400
+5971841000033114	15451211000001101	Losartan 100mg/5ml oral suspension	Losartan 100mg/5ml oral suspension	Losartan potassium	20.000mg/1.000ml	Oral suspension	Oral	2050502	100
+5971941000033118	14159411000001106	Losartan 50mg/5ml oral solution	Losartan 50mg/5ml oral solution	Losartan potassium	10.000mg/1.000ml	Oral solution	Oral	2050502	800
+5972041000033112	14159511000001105	Losartan 50mg/5ml oral suspension	Losartan 50mg/5ml oral suspension	Losartan potassium	10.000mg/1.000ml	Oral suspension	Oral	2050502	1000
+5992541000033111	8486911000001103	Enalapril 5mg/5ml oral solution	Enalapril 5mg/5ml oral solution	Enalapril maleate	1.000mg/1.000ml	Oral solution	Oral	2050501	3000
+5992641000033112	8487011000001104	Enalapril 5mg/5ml oral suspension	Enalapril 5mg/5ml oral suspension	Enalapril maleate	1.000mg/1.000ml	Oral suspension	Oral	2050501	1000
+5998241000033112	8720211000001109	Ramipril 1.25mg/5ml oral solution	Ramipril 1.25mg/5ml oral solution	Ramipril	250.000microgram/1.000ml	Oral solution	Oral	2050501	300
+6001041000033115	8351611000001101	Captopril 5mg/5ml oral solution	Captopril 5mg/5ml oral solution	Captopril	1.000mg/1.000ml	Oral solution	Oral	2050501	3000
+6012441000033118	8485511000001103	Enalapril 1.25mg/5ml oral solution	Enalapril 1.25mg/5ml oral solution	Enalapril maleate	250.000microgram/1.000ml	Oral solution	Oral	2050501	300
+6012541000033117	8485611000001104	Enalapril 1.25mg/5ml oral suspension	Enalapril 1.25mg/5ml oral suspension	Enalapril maleate	250.000microgram/1.000ml	Oral suspension	Oral	2050501	100
+6044541000033115	8622411000001104	Lisinopril 20mg/5ml oral suspension	Lisinopril 20mg/5ml oral suspension	Lisinopril	4.000mg/1.000ml	Oral suspension	Oral	2050501	500
+6044641000033119	8622311000001106	Lisinopril 20mg/5ml oral solution	Lisinopril 20mg/5ml oral solution	Lisinopril	4.000mg/1.000ml	Oral solution	Oral	2050501	300
+6138941000033113	18759411000001103	Sildenafil 10mg/12.5ml solution for injection vials	Sildenafil 10mg/12.5ml solution for injection vials	Sildenafil citrate	0.800mg/1.000ml	Solution for injection	Intravenous	2050100	6
+6435741000033117	19481911000001105	Irbesartan 37.5mg oral powder sachets	Irbesartan 37.5mg oral powder sachets	Irbesartan	37.500mg	 Powder	Oral	2050502	30
+6515441000033113	375034009	Valsartan 80mg tablets	Valsartan 80mg tablets	Valsartan	80.000mg	Tablet	Oral	2050502	6000
+6515541000033114	375035005	Valsartan 160mg tablets	Valsartan 160mg tablets	Valsartan	160.000mg	Tablet	Oral	2050502	7000
+6517041000033110	19877111000001100	Ramipril 2.5mg/5ml oral solution sugar free	Ramipril 2.5mg/5ml oral solution sugar free	Ramipril	500.000microgram/1.000ml	Oral solution	Oral	2050501	20000
+6528441000033113	20007411000001100	Valsartan 3mg/ml oral solution	Valsartan 3mg/ml oral solution	Valsartan	3.000mg/1.000ml	Oral solution	Oral	2050502	100
+7754841000033119	20418711000001104	Azilsartan medoxomil 20mg tablets	Azilsartan medoxomil 20mg tablets	Azilsartan medoxomil potassium	20.000mg	Tablet	Oral	2050502	200
+8101341000033116	14696611000001108	Ketanserin 20mg tablets	Ketanserin 20mg tablets	Ketanserin	20.000mg	Tablet	Oral	2050800	1
+8234041000033110	21705011000001109	Sildenafil 10mg/ml oral suspension sugar free	Sildenafil 10mg/ml oral suspension sugar free	Sildenafil citrate	10.000mg/1.000ml	Oral suspension	Oral	2050100	3000
+8263341000033116	21939911000001107	Perindopril tosilate 2.5mg tablets	Perindopril tosilate 2.5mg tablets	Perindopril tosilate	2.500mg	Tablet	Oral	2050501	70
+8263441000033110	21940111000001100	Perindopril tosilate 5mg tablets	Perindopril tosilate 5mg tablets	Perindopril tosilate	5.000mg	Tablet	Oral	2050501	400
+8263541000033111	21939811000001102	Perindopril tosilate 10mg tablets	Perindopril tosilate 10mg tablets	Perindopril tosilate	10.000mg	Tablet	Oral	2050501	1000
+8263641000033112	21940011000001101	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	Perindopril tosilate 5mg / Indapamide 1.25mg tablets	Indapamide/ Perindopril tosilate	1.250mg + 5.000mg	Tablet	Oral	2050501	1000
+8275941000033110	14057311000001102	Perindopril erbumine 8mg/5ml oral solution	Perindopril erbumine 8mg/5ml oral solution	Perindopril erbumine	1.600mg/1.000ml	Oral solution	Oral	2050501	100
+8276041000033117	8671311000001103	Perindopril erbumine 4mg/5ml oral suspension	Perindopril erbumine 4mg/5ml oral suspension	Perindopril erbumine	800.000microgram/1.000ml	Oral suspension	Oral	2050501	800
+8276141000033118	14057411000001109	Perindopril erbumine 8mg/5ml oral suspension	Perindopril erbumine 8mg/5ml oral suspension	Perindopril erbumine	1.600mg/1.000ml	Oral suspension	Oral	2050501	100
+8869441000033119	23471511000001106	Perindopril erbumine 4mg/5ml oral solution	Perindopril erbumine 4mg/5ml oral solution	Perindopril erbumine	800.000microgram/1.000ml	Oral solution	Oral	2050501	600
+8870641000033119	23466611000001105	Doxazosin 4mg/5ml oral solution	Doxazosin 4mg/5ml oral solution	Doxazosin mesilate	800.000microgram/1.000ml	Oral solution	Oral	2050400	700
+8962541000033116	23707811000001104	Macitentan 10mg tablets	Macitentan 10mg tablets	Macitentan	10.000mg	Tablet	Oral	2050100	500
+9105241000033114	23985011000001108	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Perindopril erbumine 4mg / Amlodipine 5mg tablets	Amlodipine besilate/ Perindopril erbumine	5.000mg + 4.000mg	Tablet	Oral	2050501	1000
+9105341000033116	23984911000001108	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Perindopril erbumine 4mg / Amlodipine 10mg tablets	Amlodipine besilate/ Perindopril erbumine	10.000mg + 4.000mg	Tablet	Oral	2050501	700
+9105441000033110	23985211000001103	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Perindopril erbumine 8mg / Amlodipine 5mg tablets	Amlodipine besilate/ Perindopril erbumine	5.000mg + 8.000mg	Tablet	Oral	2050501	2000
+9105541000033111	23985111000001109	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Perindopril erbumine 8mg / Amlodipine 10mg tablets	Amlodipine besilate/ Perindopril erbumine	10.000mg + 8.000mg	Tablet	Oral	2050501	1000
+9108041000033111	23707311000001108	Captopril 25mg/5ml oral solution sugar free	Captopril 25mg/5ml oral solution sugar free	Captopril	5.000mg/1.000ml	Oral solution	Oral	2050501	9000
+9108141000033110	23707511000001102	Captopril 5mg/5ml oral solution sugar free	Captopril 5mg/5ml oral solution sugar free	Captopril	1.000mg/1.000ml	Oral solution	Oral	2050501	8000
+9157241000033114	24408711000001104	Riociguat 500microgram tablets	Riociguat 500microgram tablets	Riociguat	500.000microgram	Tablet	Oral	2050100	20
+9157341000033116	24408411000001105	Riociguat 1mg tablets	Riociguat 1mg tablets	Riociguat	1.000mg	Tablet	Oral	2050100	20
+9157441000033110	24408311000001103	Riociguat 1.5mg tablets	Riociguat 1.5mg tablets	Riociguat	1.500mg	Tablet	Oral	2050100	8
+9157541000033111	24408611000001108	Riociguat 2mg tablets	Riociguat 2mg tablets	Riociguat	2.000mg	Tablet	Oral	2050100	1
+9157641000033112	24408511000001109	Riociguat 2.5mg tablets	Riociguat 2.5mg tablets	Riociguat	2.500mg	Tablet	Oral	2050100	30
+9173941000033111	24509711000001103	Doxazosin 1mg/5ml oral solution	Doxazosin 1mg/5ml oral solution	Doxazosin mesilate	200.000microgram/1.000ml	Oral solution	Oral	2050400	400
+10645041000033114	30251811000001106	Lisinopril 5mg/5ml oral solution sugar free	Lisinopril 5mg/5ml oral solution sugar free	Lisinopril	1.000mg/1.000ml	Oral solution	Oral	2050501	10000
+10943641000033117	31142011000001103	Sacubitril 24mg / Valsartan 26mg tablets	Sacubitril 24mg / Valsartan 26mg tablets	Sacubitril/ Valsartan	24.000mg + 26.000mg	Tablet	Oral	2050502	90000
+10943741000033114	31142111000001102	Sacubitril 49mg / Valsartan 51mg tablets	Sacubitril 49mg / Valsartan 51mg tablets	Sacubitril/ Valsartan	49.000mg + 51.000mg	Tablet	Oral	2050502	90000
+10943841000033116	31142211000001108	Sacubitril 97mg / Valsartan 103mg tablets	Sacubitril 97mg / Valsartan 103mg tablets	Sacubitril/ Valsartan	97.000mg + 103.000mg	Tablet	Oral	2050502	100000
+11072741000033116	8580911000001106	Hydralazine 25mg/5ml oral solution	Hydralazine 25mg/5ml oral solution	Hydralazine hydrochloride	5.000mg/1.000ml	Oral solution	Oral	2050100	20
+11567441000033119	13078011000001104	Prazosin 500micrograms/5ml oral solution	Prazosin 500micrograms/5ml oral solution	Prazosin hydrochloride	100.000microgram/1.000ml	Oral solution	Oral	2050400	3
+11734641000033115	32963211000001108	Selexipag 200microgram tablets	Selexipag 200microgram tablets	Selexipag	200.000microgram	Tablet	Oral	2050100	20
+11734741000033112	32964011000001101	Selexipag 400microgram tablets	Selexipag 400microgram tablets	Selexipag	400.000microgram	Tablet	Oral	2050100	10
+11734841000033119	32964411000001105	Selexipag 600microgram tablets	Selexipag 600microgram tablets	Selexipag	600.000microgram	Tablet	Oral	2050100	3
+11734941000033110	32964811000001107	Selexipag 800microgram tablets	Selexipag 800microgram tablets	Selexipag	800.000microgram	Tablet	Oral	2050100	6
+11735041000033110	32965211000001107	Selexipag 1mg tablets	Selexipag 1mg tablets	Selexipag	1.000mg	Tablet	Oral	2050100	8
+11735141000033114	32965611000001109	Selexipag 1.2mg tablets	Selexipag 1.2mg tablets	Selexipag	1.200mg	Tablet	Oral	2050100	1
+11735241000033119	32966011000001106	Selexipag 1.4mg tablets	Selexipag 1.4mg tablets	Selexipag	1.400mg	Tablet	Oral	2050100	2
+11735341000033112	32966411000001102	Selexipag 1.6mg tablets	Selexipag 1.6mg tablets	Selexipag	1.600mg	Tablet	Oral	2050100	6
+12106941000033117	10448511000001104	Clonidine 100micrograms/24hours transdermal patches	Clonidine 100micrograms/24hours transdermal patches	Clonidine	100.000microgram/24.000hour	Transdermal patch	Transdermal	2050200	600
+12107041000033116	10449111000001101	Clonidine 300micrograms/24hours transdermal patches	Clonidine 300micrograms/24hours transdermal patches	Clonidine	300.000microgram/24.000hour	Transdermal patch	Transdermal	2050200	400
+12443741000033115	34986511000001109	Iloprost 20micrograms/1ml nebuliser liquid ampoules	Iloprost 20micrograms/1ml nebuliser liquid ampoules	Iloprost trometamol	20.000microgram/1.000ml	 Nebuliser liquid	Inhalation	2050100	10
+12682141000033115	421069003	Doxazosin 8mg tablets	Doxazosin 8mg tablets	Doxazosin mesilate	8.000mg	Tablet	Oral	2050400	50000
+12877141000033119	414426001	Hydralazine 10mg tablets	Hydralazine 10mg tablets	Hydralazine hydrochloride	10.000mg	Tablet	Oral	2050100	30
+13127941000033115	4897711000001106	Iloprost 50micrograms/0.5ml solution for infusion ampoules	Iloprost 50micrograms/0.5ml solution for infusion ampoules	Iloprost trometamol	100.000microgram/1.000ml	Solution for infusion	Intravenous	2050100	30
+13128541000033110	37249111000001106	Iloprost 10micrograms/1ml nebuliser liquid ampoules with device	Iloprost 10micrograms/1ml nebuliser liquid ampoules with device	Iloprost trometamol	10.000microgram/1.000ml	 Nebuliser liquid	Inhalation	2050100	2
+870541000033110	371145003	Mazindol 2mg tablets	Mazindol 2mg tablets	Mazindol	2.000mg	Tablet	Oral	4050200	800
+1661741000033113	317893003	Orlistat 120mg capsules	Orlistat 120mg capsules	Orlistat	120.000mg	Capsule	Oral	4050100	4000000
+2055041000033110	371144004	Mazindol 1mg tablets	Mazindol 1mg tablets	Mazindol	1.000mg	Tablet	Oral	4050200	200
+2584041000033118	39704211000001108	Sibutramine 10mg capsules	Sibutramine 10mg capsules	Sibutramine hydrochloride	10.000mg	Capsule	Oral	4050200	300000
+2584141000033119	39704311000001100	Sibutramine 15mg capsules	Sibutramine 15mg capsules	Sibutramine hydrochloride	15.000mg	Capsule	Oral	4050200	200000
+3933941000033113	10608011000001102	Rimonabant 20mg tablets	Rimonabant 20mg tablets	Rimonabant	20.000mg	Tablet	Oral	4050200	70000
+6111241000033116	426638000	Orlistat 60mg capsules	Orlistat 60mg capsules	Orlistat	60.000mg	Capsule	Oral	4050100	20000
+12332041000033116	34557011000001101	Naltrexone 8mg / Bupropion 90mg modified-release tablets	Naltrexone 8mg / Bupropion 90mg modified-release tablets	Bupropion hydrochloride/ Naltrexone hydrochloride	90.000mg + 8.000mg	Modified-release tablet	Oral	4050200	30
+2841000033117	319984007	Acipimox 250mg capsules	Acipimox 250mg capsules	Acipimox	250.000mg	Capsule	Oral	2120000	40000
+78841000033110	7386911000001101	Saliva replacement liquid	Saliva replacement liquid					21210000	20000
+91941000033117	39695411000001103	Atorvastatin 10mg tablets	Atorvastatin 10mg tablets	Atorvastatin calcium trihydrate	10.000mg	Tablet	Oral	2120000	30000000
+92041000033111	39733011000001106	Atorvastatin 20mg tablets	Atorvastatin 20mg tablets	Atorvastatin calcium trihydrate	20.000mg	Tablet	Oral	2120000	50000000
+92141000033110	39733111000001107	Atorvastatin 40mg tablets	Atorvastatin 40mg tablets	Atorvastatin calcium trihydrate	40.000mg	Tablet	Oral	2120000	40000000
+145841000033113	319940007	Bezafibrate 200mg tablets	Bezafibrate 200mg tablets	Bezafibrate	200.000mg	Tablet	Oral	2120000	500000
+145941000033117	39020211000001107	Bezafibrate 400mg modified-release tablets	Bezafibrate 400mg modified-release tablets	Bezafibrate	400.000mg	Modified-release tablet	Oral	2120000	2000000
+233741000033115	320035006	Cerivastatin 100microgram tablets	Cerivastatin 100microgram tablets	Cerivastatin sodium	100.000microgram	Tablet	Oral	2120000	200000
+233841000033113	320036007	Cerivastatin 200microgram tablets	Cerivastatin 200microgram tablets	Cerivastatin sodium	200.000microgram	Tablet	Oral	2120000	100000
+233941000033117	320037003	Cerivastatin 300microgram tablets	Cerivastatin 300microgram tablets	Cerivastatin sodium	300.000microgram	Tablet	Oral	2120000	40000
+258541000033118	320018007	Ciprofibrate 100mg tablets	Ciprofibrate 100mg tablets	Ciprofibrate	100.000mg	Tablet	Oral	2120000	500000
+328141000033117	4090511000001101	Colestipol 5g granules sachets sugar free	Colestipol 5g granules sachets sugar free	Colestipol hydrochloride	5.000gram	Granules	Oral	2120000	40000
+564541000033112	9843611000001100	Fenofibrate 200mg capsules	Fenofibrate 200mg capsules	Fenofibrate	200.000mg	Capsule	Oral	2120000	400000
+564641000033113	319990006	Fenofibrate micronised 67mg capsules	Fenofibrate micronised 67mg capsules	Fenofibrate micronised	67.000mg	Capsule	Oral	2120000	200000
+578641000033114	39693011000001106	Fluvastatin 20mg capsules	Fluvastatin 20mg capsules	Fluvastatin sodium	20.000mg	Capsule	Oral	2120000	700000
+578741000033117	39693111000001107	Fluvastatin 40mg capsules	Fluvastatin 40mg capsules	Fluvastatin sodium	40.000mg	Capsule	Oral	2120000	800000
+627841000033118	319966005	Gemfibrozil 300mg capsules	Gemfibrozil 300mg capsules	Gemfibrozil	300.000mg	Capsule	Oral	2120000	70000
+634541000033110	319964008	Gemfibrozil 600mg tablets	Gemfibrozil 600mg tablets	Gemfibrozil	600.000mg	Tablet	Oral	2120000	100000
+974841000033113	319971003	Nicotinic acid 50mg tablets	Nicotinic acid 50mg tablets	Nicotinic acid	50.000mg	Tablet	Oral	2120000	9000
+1130141000033111	320012008	Pravastatin 10mg tablets	Pravastatin 10mg tablets	Pravastatin sodium	10.000mg	Tablet	Oral	2120000	3000000
+1130241000033116	320013003	Pravastatin 20mg tablets	Pravastatin 20mg tablets	Pravastatin sodium	20.000mg	Tablet	Oral	2120000	5000000
+1136541000033116	320014009	Pravastatin 40mg tablets	Pravastatin 40mg tablets	Pravastatin sodium	40.000mg	Tablet	Oral	2120000	7000000
+1336841000033110	319996000	Simvastatin 10mg tablets	Simvastatin 10mg tablets	Simvastatin	10.000mg	Tablet	Oral	2120000	20000000
+1336941000033119	319997009	Simvastatin 20mg tablets	Simvastatin 20mg tablets	Simvastatin	20.000mg	Tablet	Oral	2120000	50000000
+1337541000033111	320000009	Simvastatin 40mg tablets	Simvastatin 40mg tablets	Simvastatin	40.000mg	Tablet	Oral	2120000	90000000
+1862541000033115	319992003	Fenofibrate micronised 267mg capsules	Fenofibrate micronised 267mg capsules	Fenofibrate micronised	267.000mg	Capsule	Oral	2120000	700000
+1916841000033114	320041004	Cerivastatin 400microgram tablets	Cerivastatin 400microgram tablets	Cerivastatin sodium	400.000microgram	Tablet	Oral	2120000	70000
+2066241000033118	320006003	Simvastatin 80mg tablets	Simvastatin 80mg tablets	Simvastatin	80.000mg	Tablet	Oral	2120000	2000000
+2189041000033110	36566411000001105	Fluvastatin 80mg modified-release tablets	Fluvastatin 80mg modified-release tablets	Fluvastatin sodium	80.000mg	Modified-release tablet	Oral	2120000	300000
+2214741000033113	319994002	Fenofibrate micronised 160mg tablets	Fenofibrate micronised 160mg tablets	Fenofibrate micronised	160.000mg	Tablet	Oral	2120000	1000000
+2261041000033114	39733211000001101	Atorvastatin 80mg tablets	Atorvastatin 80mg tablets	Atorvastatin calcium trihydrate	80.000mg	Tablet	Oral	2120000	10000000
+2290041000033115	134491009	Cerivastatin 800microgram tablets	Cerivastatin 800microgram tablets	Cerivastatin sodium	800.000microgram	Tablet	Oral	2120000	100
+2849841000033117	36031511000001109	Nicotinic acid 500mg modified-release tablets	Nicotinic acid 500mg modified-release tablets	Nicotinic acid	500.000mg	Modified-release tablet	Oral	2120000	10000
+2891541000033111	408036003	Rosuvastatin 10mg tablets	Rosuvastatin 10mg tablets	Rosuvastatin calcium	10.000mg	Tablet	Oral	2120000	5000000
+2891641000033112	408037007	Rosuvastatin 20mg tablets	Rosuvastatin 20mg tablets	Rosuvastatin calcium	20.000mg	Tablet	Oral	2120000	2000000
+2891741000033115	408024009	Rosuvastatin 40mg tablets	Rosuvastatin 40mg tablets	Rosuvastatin calcium	40.000mg	Tablet	Oral	2120000	500000
+2906741000033119	408060004	Ezetimibe 10mg tablets	Ezetimibe 10mg tablets	Ezetimibe	10.000mg	Tablet	Oral	2120000	9000000
+2994041000033110	36031611000001108	Nicotinic acid 750mg modified-release tablets	Nicotinic acid 750mg modified-release tablets	Nicotinic acid	750.000mg	Modified-release tablet	Oral	2120000	6000
+2994141000033114	36031411000001105	Nicotinic acid 1g modified-release tablets	Nicotinic acid 1g modified-release tablets	Nicotinic acid	1.000gram	Modified-release tablet	Oral	2120000	20000
+3086341000033118	319948000	Colestyramine 4g oral powder sachets	Colestyramine 4g oral powder sachets	Colestyramine anhydrous	4.000gram	 Powder	Oral	2120000	400000
+3086441000033112	3336411000001107	Colestyramine 4g oral powder sachets sugar free	Colestyramine 4g oral powder sachets sugar free	Colestyramine anhydrous	4.000gram	 Powder	Oral	2120000	100000
+3188941000033114	319988005	Fenofibrate micronised 200mg capsules	Fenofibrate micronised 200mg capsules	Fenofibrate micronised	200.000mg	Capsule	Oral	2120000	500000
+3281941000033115	319978009	Eicosapentaenoic acid 170mg / Docosahexaenoic acid 115mg capsules	Eicosapentaenoic acid 170mg / Docosahexaenoic acid 115mg capsules	Docosahexaenoic acid/ Eicosapentaenoic acid	115.000mg + 170.000mg	Capsule	Oral	2120000	20000
+3282041000033114	36071811000001105	Eicosapentaenoic acid 170mg/g / Docosahexaenoic acid 115mg/g oral liquid	Eicosapentaenoic acid 170mg/g / Docosahexaenoic acid 115mg/g oral liquid	Docosahexaenoic acid/ Eicosapentaenoic acid	115.000mg/1.000gram + 170.000mg/1.000gram	Liquid	Oral	2120000	1000
+3282141000033113	4339911000001106	Eicosapentaenoic acid 460mg / Docosahexaenoic acid 380mg capsules	Eicosapentaenoic acid 460mg / Docosahexaenoic acid 380mg capsules	Docosahexaenoic acid/ Eicosapentaenoic acid	380.000mg + 460.000mg	Capsule	Oral	2120000	600000
+3292441000033116	414177002	Simvastatin 20mg / Ezetimibe 10mg tablets	Simvastatin 20mg / Ezetimibe 10mg tablets	Ezetimibe/ Simvastatin	10.000mg + 20.000mg	Tablet	Oral	2120000	90000
+3292541000033115	414178007	Simvastatin 40mg / Ezetimibe 10mg tablets	Simvastatin 40mg / Ezetimibe 10mg tablets	Ezetimibe/ Simvastatin	10.000mg + 40.000mg	Tablet	Oral	2120000	200000
+3292641000033119	414179004	Simvastatin 80mg / Ezetimibe 10mg tablets	Simvastatin 80mg / Ezetimibe 10mg tablets	Ezetimibe/ Simvastatin	10.000mg + 80.000mg	Tablet	Oral	2120000	40000
+3304141000033110	8722111000001104	Simvastatin 20mg/5ml oral suspension	Simvastatin 20mg/5ml oral suspension	Simvastatin	4.000mg/1.000ml	Oral suspension	Oral	2120000	20000
+3836041000033114	409108001	Rosuvastatin 5mg tablets	Rosuvastatin 5mg tablets	Rosuvastatin calcium	5.000mg	Tablet	Oral	2120000	3000000
+3868741000033118	14018311000001109	Atorvastatin 20mg/5ml oral suspension	Atorvastatin 20mg/5ml oral suspension	Atorvastatin calcium trihydrate	4.000mg/1.000ml	Oral suspension	Oral	2120000	4000
+4152341000033115	13894411000001106	Simvastatin 40mg/5ml oral suspension	Simvastatin 40mg/5ml oral suspension	Simvastatin	8.000mg/1.000ml	Oral suspension	Oral	2120000	8000
+4211841000033112	11788511000001109	White soft paraffin 5% lotion	White soft paraffin 5% lotion	White soft paraffin	50.000mg/1.000gram	Liquid	Cutaneous	21220000	3000
+4267541000033119	7661111000001104	Liquid paraffin 11% cream	Liquid paraffin 11% cream	Liquid paraffin	110.000mg/1.000gram	Cream	Cutaneous	21220000	60000
+4310841000033113	376119006	Colesevelam 625mg tablets	Colesevelam 625mg tablets	Colesevelam hydrochloride	625.000mg	Tablet	Oral	2120000	200000
+4805841000033118	15914911000001101	Nicotinic acid 1g / Laropiprant 20mg modified-release tablets	Nicotinic acid 1g / Laropiprant 20mg modified-release tablets	Laropiprant/ Nicotinic acid	20.000mg + 1.000gram	Modified-release tablet	Oral	2120000	7000
+5055441000033116	14743111000001106	White soft paraffin 14.5% / Liquid paraffin 12.6% cream	White soft paraffin 14.5% / Liquid paraffin 12.6% cream	Liquid paraffin/ White soft paraffin	126.000mg/1.000gram + 145.000mg/1.000gram	Cream	Cutaneous	21220000	40000
+5711041000033117	15534511000001107	Pravastatin 40mg/5ml oral suspension	Pravastatin 40mg/5ml oral suspension	Pravastatin sodium	8.000mg/1.000ml	Oral suspension	Oral	2120000	200
+5817741000033114	17369311000001105	Simvastatin 20mg/5ml oral suspension sugar free	Simvastatin 20mg/5ml oral suspension sugar free	Simvastatin	4.000mg/1.000ml	Oral suspension	Oral	2120000	20000
+5817841000033116	17429811000001102	Simvastatin 40mg/5ml oral suspension sugar free	Simvastatin 40mg/5ml oral suspension sugar free	Simvastatin	8.000mg/1.000ml	Oral suspension	Oral	2120000	20000
+5888441000033115	13894211000001107	Simvastatin 20mg/5ml oral solution	Simvastatin 20mg/5ml oral solution	Simvastatin	4.000mg/1.000ml	Oral solution	Oral	2120000	5
+5888541000033119	13894311000001104	Simvastatin 40mg/5ml oral solution	Simvastatin 40mg/5ml oral solution	Simvastatin	8.000mg/1.000ml	Oral solution	Oral	2120000	100
+5895741000033115	17828411000001104	Soya oil 83.35% bath additive	Soya oil 83.35% bath additive	Soya oil	833.500mg/1.000gram	Bath additive	Cutaneous	21220000	2000
+5897741000033110	14158711000001109	Atorvastatin 10mg/5ml oral suspension	Atorvastatin 10mg/5ml oral suspension	Atorvastatin calcium trihydrate	2.000mg/1.000ml	Oral suspension	Oral	2120000	200
+5897841000033117	14158611000001100	Atorvastatin 10mg/5ml oral solution	Atorvastatin 10mg/5ml oral solution	Atorvastatin calcium trihydrate	2.000mg/1.000ml	Oral solution	Oral	2120000	800
+5990541000033112	14018211000001101	Atorvastatin 20mg/5ml oral solution	Atorvastatin 20mg/5ml oral solution	Atorvastatin calcium trihydrate	4.000mg/1.000ml	Oral solution	Oral	2120000	1000
+6468641000033113	19722411000001106	Atorvastatin 10mg chewable tablets sugar free	Atorvastatin 10mg chewable tablets sugar free	Atorvastatin calcium trihydrate	10.000mg	Chewable tablet	Oral	2120000	20000
+6468841000033114	19722511000001105	Atorvastatin 20mg chewable tablets sugar free	Atorvastatin 20mg chewable tablets sugar free	Atorvastatin calcium trihydrate	20.000mg	Chewable tablet	Oral	2120000	30000
+7861441000033110	20528511000001106	Atorvastatin 30mg tablets	Atorvastatin 30mg tablets	Atorvastatin calcium trihydrate	30.000mg	Tablet	Oral	2120000	10000
+7861541000033111	20528611000001105	Atorvastatin 60mg tablets	Atorvastatin 60mg tablets	Atorvastatin calcium trihydrate	60.000mg	Tablet	Oral	2120000	30000
+8493841000033111	14957711000001105	Pravastatin 5mg/5ml oral solution	Pravastatin 5mg/5ml oral solution	Pravastatin sodium	1.000mg/1.000ml	Oral solution	Oral	2120000	20
+8595841000033115	18549211000001100	Artificial saliva protective spray	Artificial saliva protective spray					21210000	4000
+8595941000033111	3550111000001101	Artificial saliva gel	Artificial saliva gel	Glucose oxidase/ Lactoferrin/ Lactoperoxidase/ Muramidase	12000.000unit + 12000.000unit + 12.000mg + 12000.000unit + 12000.000unit + 12.000mg		Route of administration not applicable	21210000	30000
+8886141000033119	23604611000001102	Lomitapide 5mg capsules	Lomitapide 5mg capsules	Lomitapide	5.000mg	Capsule	Oral	2120000	5
+8886241000033114	23604411000001100	Lomitapide 10mg capsules	Lomitapide 10mg capsules	Lomitapide	10.000mg	Capsule	Oral	2120000	3
+9069641000033116	23985311000001106	Policosanol 10mg capsules	Policosanol 10mg capsules	Policosanol	10.000mg	Capsule	Oral	2120000	200
+10617841000033118	30738111000001102	Evolocumab 140mg/1ml solution for injection pre-filled syringes	Evolocumab 140mg/1ml solution for injection pre-filled syringes	Evolocumab	140.000mg/1.000ml	Solution for injection	Subcutaneous	2120000	20
+10618041000033112	30738011000001103	Evolocumab 140mg/1ml solution for injection pre-filled disposable devices	Evolocumab 140mg/1ml solution for injection pre-filled disposable devices	Evolocumab	140.000mg/1.000ml	Solution for injection	Subcutaneous	2120000	800
+10618641000033118	14957811000001102	Pravastatin 5mg/5ml oral suspension	Pravastatin 5mg/5ml oral suspension	Pravastatin sodium	1.000mg/1.000ml	Oral suspension	Oral	2120000	50
+10647041000033115	30919311000001106	Alirocumab 75mg/1ml solution for injection pre-filled disposable devices	Alirocumab 75mg/1ml solution for injection pre-filled disposable devices	Alirocumab	75.000mg/1.000ml	Solution for injection	Subcutaneous	2120000	500
+10647141000033116	30919211000001103	Alirocumab 150mg/1ml solution for injection pre-filled disposable devices	Alirocumab 150mg/1ml solution for injection pre-filled disposable devices	Alirocumab	150.000mg/1.000ml	Solution for injection	Subcutaneous	2120000	200
+11241741000033119	32234211000001101	Fenofibrate 145mg / Simvastatin 20mg tablets	Fenofibrate 145mg / Simvastatin 20mg tablets	Fenofibrate/ Simvastatin	145.000mg + 20.000mg	Tablet	Oral	2120000	100
+11241841000033112	32234311000001109	Fenofibrate 145mg / Simvastatin 40mg tablets	Fenofibrate 145mg / Simvastatin 40mg tablets	Fenofibrate/ Simvastatin	145.000mg + 40.000mg	Tablet	Oral	2120000	70
+12688241000033113	374076007	Colestipol 1g tablets	Colestipol 1g tablets	Colestipol hydrochloride	1.000gram	Tablet	Oral	2120000	20
+13742041000033111	38931511000001109	Bempedoic acid 180mg tablets	Bempedoic acid 180mg tablets	Bempedoic acid	180.000mg	Tablet	Oral	2120000	2000
+13742241000033115	38931411000001105	Bempedoic acid 180mg / Ezetimibe 10mg tablets	Bempedoic acid 180mg / Ezetimibe 10mg tablets	Bempedoic acid/ Ezetimibe	180.000mg + 10.000mg	Tablet	Oral	2120000	900
+13806241000033113	39494711000001108	Alirocumab 300mg/2ml solution for injection pre-filled disposable devices	Alirocumab 300mg/2ml solution for injection pre-filled disposable devices	Alirocumab	150.000mg/1.000ml	Solution for injection	Subcutaneous	2120000	6
+13860741000033115	39832611000001106	Rosuvastatin 5mg capsules	Rosuvastatin 5mg capsules	Rosuvastatin calcium	5.000mg	Capsule	Oral	2120000	400
+13860841000033113	39832311000001101	Rosuvastatin 10mg capsules	Rosuvastatin 10mg capsules	Rosuvastatin calcium	10.000mg	Capsule	Oral	2120000	400
+13860941000033117	39832411000001108	Rosuvastatin 20mg capsules	Rosuvastatin 20mg capsules	Rosuvastatin calcium	20.000mg	Capsule	Oral	2120000	400
+13861041000033110	39832511000001107	Rosuvastatin 40mg capsules	Rosuvastatin 40mg capsules	Rosuvastatin calcium	40.000mg	Capsule	Oral	2120000	60
+13889441000033116	39495111000001106	Inclisiran 284mg/1.5ml solution for injection pre-filled syringes	Inclisiran 284mg/1.5ml solution for injection pre-filled syringes	Inclisiran sodium	189.000mg/1.000ml	Solution for injection	Subcutaneous	2120000	300
+13948041000033116	40289911000001109	Icosapent 998mg capsules	Icosapent 998mg capsules	Icosapent ethyl	998.000mg	Capsule	Oral	2120000	1
+14021741000033118	40573211000001102	Atorvastatin 20mg/5ml oral suspension sugar free	Atorvastatin 20mg/5ml oral suspension sugar free	Atorvastatin calcium trihydrate	4.000mg/1.000ml	Oral suspension	Oral	2120000	90

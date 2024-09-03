@@ -1,0 +1,10 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+185	576126	4946	32	0	H333.00	Acute exacerbation of asthma	February 2009
+232	103087	4532	5	0	H33z100	Asthma attack	February 2009
+18323	195	5	0	0	H331111	Intrinsic asthma with asthma attack	February 2009
+8335	5333	19	0	0	H33z111	Asthma attack NOS	February 2009
+6707	3021	32	0	0	H330111	Extrinsic asthma with asthma attack	February 2009
+233	27784	4367	4	0	H33z011	Severe asthma attack	February 2009
+47337	25205	1	0	0	663m.00	Asthma accident and emergency attendance since last visit	February 2009
+24479	29310	31	0	0	663d.00	Emergency asthma admission since last appointment	February 2009
+7058	45813	2693	2	0	8H2P.00	Emergency admission, asthma	February 2009

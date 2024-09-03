@@ -1,0 +1,13 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+16785	101153	6	0	0	8794.00	Asthma control step 1	February 2009
+18224	183351	30	0	0	8796.00	Asthma control step 3	February 2009
+16667	229264	15	0	0	8795.00	Asthma control step 2	February 2009
+20886	20270	14	0	0	8797.00	Asthma control step 4	February 2009
+20860	2179	10	0	0	8798.00	Asthma control step 5	February 2009
+29645	23213	3	0	0	8793.00	Asthma control step 0	February 2009
+13065	17934	13	0	0	663V200	Moderate asthma	February 2009
+3366	3597	79	0	0	663V300	Severe asthma	February 2009
+3458	15285	26	7	0	663V000	Occasional asthma	February 2009
+13064	219042	7	26	0	663V.00	Asthma severity	February 2009
+3018	27476	21	0	0	663V100	Mild asthma	February 2009
+26503	217219	4	0	0	663v.00	Asthma causes daytime symptoms most days	February 2009

@@ -1,0 +1,31 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+98546013	900	H3311	H331100	Life threatening acute exacerbation of intrinsic asthma	1086711000000100	2722261000000119	32
+151338014	2000	H3301	H330100	Life threatening acute exacerbation of allergic asthma	1086701000000102	2722231000000112	32
+350151019	2000	H3301-1	H330111	Acute exacerbation of allergic asthma	708093000	3083642013	32
+350156012	500	H3311-1	H331111	Acute exacerbation of intrinsic asthma	708094006	3032866010	32
+396118011	10000	H33z0	H33z000	Life threatening acute exacerbation of asthma	734904007	3511368015	32
+419211018	2000000	H333	H333.00	Acute exacerbation of asthma	708038006	3032747019	32
+3511374015	900	^ESCT1164869		Moderate acute exacerbation of asthma	734905008	3511374015	32
+3514925011	1	^ESCT1165691		Acute severe exacerbation of asthma co-occurrent and due to allergic asthma	735587000	3514925011	31
+3637387011	100	^ESCT1169266		Exacerbation of allergic asthma	762521001	3637387011	32
+145961000006117	30000	H33z0-1	H33z011	Acute severe exacerbation of asthma	708090002	3033029011	32
+2010031000006116	10000	EMISNQAC876		Acute infective exacerbation of asthma	2010031000006100	2010031000006116	32
+2010041000006114	1000	EMISNQAC877		Acute non-infective exacerbation of asthma	2010041000006105	2010041000006114	32
+5649191000006110	20000	^ESCTEX564919		Exacerbation of asthma	281239006	419210017	32
+7052221000006118	100	^ESCTEX705222		Exacerbation of intermittent asthma	425969006	2674141011	32
+7617611000006112	200	^ESCTEX761761		Exacerbation of mild persistent asthma	707445000	3030146012	32
+7617621000006116	20	^ESCTEX761762		Exacerbation of moderate persistent asthma	707446004	3030142014	32
+7617631000006118	9	^ESCTEX761763		Exacerbation of severe persistent asthma	707447008	3030154014	32
+7626521000006110	3	^ESCTAC762652		Acute severe exacerbation of severe persistent asthma	707979007	3032643012	32
+7626531000006113	2	^ESCTAC762653		Acute severe exacerbation of moderate persistent asthma	707980005	3032646016	32
+7626541000006115	5	^ESCTAC762654		Acute severe exacerbation of mild persistent asthma	707981009	3032647013	32
+7628301000006111	3	^ESCTAC762830		Acute severe exacerbation of allergic asthma	708095007	3083689010	32
+7628331000006115	1	^ESCTAC762833		Acute severe exacerbation of intrinsic asthma	708096008	3032982012	32
+7961271000006111	6	^ESCTAC796127		Acute severe refractory exacerbation of asthma	733858005	3474968016	32
+8042571000006111	5	^ESCTAC804257		Acute exacerbation of moderate persistent asthma	135171000119106	3043548019	32
+8042581000006114	10	^ESCTAC804258		Acute exacerbation of mild persistent asthma	135181000119109	3043530011	32
+9315221000006110	2	^ESCTAC931522		Acute severe exacerbation of mild persistent allergic asthma	10675911000119109	3043234015	32
+13619851000006113	1	^ESCT1361985		Acute severe exacerbation of allergic asthma	782513000	3754324015	32
+13619961000006119	200	^ESCT1361996		Exacerbation of allergic asthma due to infection	782520007	3754350016	32
+396119015	200000	H33z1	H33z100	Asthma attack	708038006	3032734012	32
+409865018	10000	H33z1-1	H33z111	Asthma attack NOS	708038006	3032734012	32
